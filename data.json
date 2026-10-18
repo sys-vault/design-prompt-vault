@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202610180652-1",
+    "date": "2026-10-18",
+    "title": "Smart Friction UI System",
+    "category": "UI & Layout",
+    "trend_signal": "Users respond better to guidance than hard blocks. This system leverages subtle visual and motion cues to create 'smart friction,' guiding user behavior without frustration. This attention to detail, like the quiet zone for QR codes or correct favicon geometry, significantly improves UX and conversion.",
+    "typography_pairing": "Inter Display + Source Sans Pro",
+    "color_palette": [
+      "#2C3E50",
+      "#ECF0F1",
+      "#3498DB",
+      "#E74C3C"
+    ],
+    "pro_prompt_system": "Design a micro-interaction sequence for a form submission that gently nudges users to review incomplete fields. Focus on subtle highlight animations and a progress bar that visually indicates friction, rather than blocking. Ensure assets scale perfectly for 16px favicons and use a 4px 'quiet zone' for any integrated QR codes, maintaining optimal scannability.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202610180652-2",
+    "date": "2026-10-18",
+    "title": "AI Evidence Card Workflow",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The most effective AI outputs stem from meticulously structured inputs. By pre-defining key parameters and 'evidence cards,' designers can guide generative AI, avoiding common pitfalls and ensuring brand consistency. This method treats AI as a co-creator, ensuring outputs are aligned with strategic objectives from the start.",
+    "typography_pairing": "IBM Plex Sans + JetBrains Mono",
+    "color_palette": [
+      "#1F2937",
+      "#9CA3AF",
+      "#D1D5DB",
+      "#4B5563"
+    ],
+    "pro_prompt_system": "Develop a structured 'Evidence Card' template for a brand's AI-generated content. Include sections for: [Core Message], [Target Audience Persona], [Brand Voice Adjectives], [Key Visual Elements/Mood], [Required Data Points], [Negative Keywords]. Instruct the AI to synthesize these into a concise content brief before generating any copy or visuals, ensuring full alignment.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202610180652-3",
+    "date": "2026-10-18",
+    "title": "Niche Aesthetic Brand Kit",
+    "category": "Typography & Brand",
+    "trend_signal": "Niche markets demand hyper-specific and technically precise branding. This system ensures unique aesthetic elements, like anime themes, are flawlessly rendered across all assets, from complex illustrations to tiny favicons. It emphasizes both distinct visual identity and the often-overlooked technical details crucial for brand recognition and functionality.",
+    "typography_pairing": "Montserrat Alternates + Open Sans",
+    "color_palette": [
+      "#FF6B6B",
+      "#4ECDC4",
+      "#45B7D1",
+      "#F7FFF7"
+    ],
+    "pro_prompt_system": "Generate a complete 'Aetherial Anime' brand kit. Focus on dynamic character poses, gradient-infused UI elements, and a celestial color palette. Ensure all iconography, including the 16px favicon, maintains crisp geometry and is optimized for both light/dark modes. Include guidelines for a minimum 4-unit 'quiet zone' around any custom QR codes for merch.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202610170627-1",
     "date": "2026-10-17",
     "title": "Dynamic Light & Palette Prompt System",
