@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202610190711-1",
+    "date": "2026-10-19",
+    "title": "AI Dynamic Layout System",
+    "category": "UI & Layout",
+    "trend_signal": "AI-driven spatial and content arrangement is becoming crucial for personalized experiences. This pattern leverages open-weight AI to intelligently optimize complex layouts based on real dimensions or user intent, significantly boosting engagement and conversion by presenting tailored information efficiently.",
+    "typography_pairing": "Inter Display + IBM Plex Sans",
+    "color_palette": [
+      "#2E3A59",
+      "#6A8CFF",
+      "#D2E0FF",
+      "#F0F3F7"
+    ],
+    "pro_prompt_system": "Generate an adaptive UI layout for a personalized learning dashboard. The system should dynamically arrange content blocks (flashcards, quizzes, notes) based on user progress and inferred learning goals, prioritizing high-impact elements. Use a modular grid, ensure responsive breakpoints, and integrate clear progress indicators. Output a structured JSON describing the layout components and their adaptive logic.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202610190711-2",
+    "date": "2026-10-19",
+    "title": "MaterialX Glaze & Gold Render",
+    "category": "Motion & 3D",
+    "trend_signal": "Photorealistic rendering with advanced material shaders like MaterialX Glaze and Gold is setting new industry benchmarks. This visual pattern performs by elevating product presentation from generic fallbacks to hyper-realistic, emotionally resonant visuals, significantly impacting perceived value and conversion rates in e-commerce and brand storytelling.",
+    "typography_pairing": "DM Serif Display + Fira Code",
+    "color_palette": [
+      "#0A0A0A",
+      "#D4AF37",
+      "#E6E6E6",
+      "#1C243B"
+    ],
+    "pro_prompt_system": "Render a hero shot of a luxury tech product (e.g., a smart watch) using MaterialX shaders. Apply a highly reflective 'Glaze' finish to the main body and a brushed 'Gold' texture to accents. Set up a three-point studio lighting rig with a dominant softbox from the top-left and a subtle rim light. The camera should be at eye-level, slightly angled, with a shallow depth of field focusing on the product's intricate details.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202610190711-3",
+    "date": "2026-10-19",
+    "title": "Intent-Driven Content Architect",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "AI systems that infer and adapt to user intent or linguistic nuance generate significantly more relevant and engaging outputs. This workflow pattern performs by moving beyond keyword matching to context-aware content generation, ensuring higher user satisfaction and conversion through deeply personalized and goal-aligned communication.",
+    "typography_pairing": "General Sans + Source Code Pro",
+    "color_palette": [
+      "#1A2B42",
+      "#4CAF50",
+      "#FFC107",
+      "#EEEEEE"
+    ],
+    "pro_prompt_system": "As an AI content architect, analyze the user's implicit goal from their initial query: 'How do I optimize my hotel's AC for sustainability and guest comfort?' Infer the core intent (balancing efficiency, environment, and UX). Generate a 5-point actionable strategy addressing these trade-offs, providing specific, concise recommendations for system upgrades, operational adjustments, and communication strategies with guests.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202610180652-1",
     "date": "2026-10-18",
     "title": "Smart Friction UI System",
