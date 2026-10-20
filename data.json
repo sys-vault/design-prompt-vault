@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202610200658-1",
+    "date": "2026-10-20",
+    "title": "AI Flow Audit Protocol",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "AI now enables complex ideas (MIT signal) but demands rigorous audit. This pattern details critical steps for evaluating AI assistant flows: disclosure, pacing, and seamless human-AI handoff, ensuring user trust and conversion.",
+    "typography_pairing": "Inter Variable + JetBrains Mono",
+    "color_palette": [
+      "#2C3E50",
+      "#ECF0F1",
+      "#3498DB",
+      "#E74C3C"
+    ],
+    "pro_prompt_system": "Act as an AI conversation auditor. Review the following AI assistant flow transcript. Evaluate: 1) Clarity of AI disclosure, 2) Conversation pace for user comprehension, 3) Effectiveness of human handoff points. Provide a score (1-10) for each, with detailed feedback and actionable improvements for user experience and trust.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202610200658-2",
+    "date": "2026-10-20",
+    "title": "WCAG Dark Mode Blueprint",
+    "category": "UI & Layout",
+    "trend_signal": "User-as-product models require ethical UX, avoiding dark patterns. Simultaneously, dark mode accessibility is critical, where a simple toggle often fails WCAG contrast. This system ensures ethical, truly accessible dark themes, boosting user retention and brand trust.",
+    "typography_pairing": "Open Sans + Roboto Mono",
+    "color_palette": [
+      "#121212",
+      "#E0E0E0",
+      "#BB86FC",
+      "#03DAC6"
+    ],
+    "pro_prompt_system": "Design an accessible dark mode specification. Ensure all UI elements meet WCAG AA contrast for text (4.5:1) and non-text elements (3:1). Specify foreground/background color pairs, active states, and focus indicators. Outline a system for testing compliance beyond a basic theme toggle, prioritizing legibility and cognitive load reduction for extended use.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202610200658-3",
+    "date": "2026-10-20",
+    "title": "Iterative Brand Proofs AI",
+    "category": "Typography & Brand",
+    "trend_signal": "Getting from roughs to sign-off is often bottlenecked by subjective feedback. Leveraging AI for iterative proofs, inspired by automated print specs, streamlines this. This pattern rapidly generates diverse, refined brand concepts, accelerating client approval and reducing revision cycles.",
+    "typography_pairing": "Outfit + Fira Code",
+    "color_palette": [
+      "#0F172A",
+      "#64748B",
+      "#FACC15",
+      "#EF4444"
+    ],
+    "pro_prompt_system": "Generate 5 distinct brand identity proof iterations for a tech startup named 'Synapse'. Focus on logo variations, typography pairings (display/body), and a core color palette. Include mockups for a business card and a landing page hero. Each iteration must clearly articulate its unique design rationale, ready for client review and rapid feedback integration.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202610190711-1",
     "date": "2026-10-19",
     "title": "AI Dynamic Layout System",
