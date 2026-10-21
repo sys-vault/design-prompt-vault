@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202610210652-1",
+    "date": "2026-10-21",
+    "title": "AI-Driven Ethical Referral UX",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "This pattern leverages AI for rapid prototyping of complex ideas, directly addressing the ethical 'user is the product' challenge. It performs by building user trust and ensuring transparent, non-manipulative referral system design, speeding up iteration.",
+    "typography_pairing": "Inter Display + Source Sans Pro",
+    "color_palette": [
+      "#2E86AB",
+      "#7BC0E3",
+      "#D9EDF7",
+      "#4A4A4A"
+    ],
+    "pro_prompt_system": "Generate a complete UI/UX flow for an ethical referral program. Focus on transparency, clear value proposition for both referrer and referee, and avoid dark patterns. Include screens for invitation, tracking, and reward redemption. Ensure disclosures are prominent and language is positive, supportive, and non-coercive. Output detailed wireframes and copy.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202610210652-2",
+    "date": "2026-10-21",
+    "title": "WCAG Dark Mode AI Audit",
+    "category": "UI & Layout",
+    "trend_signal": "Addresses critical AI assistant flow auditing (disclosure, pace, handoff) alongside dark mode accessibility challenges (WCAG contrast). This workflow mitigates user friction and legal risks, ensuring responsible, inclusive AI deployment across dynamic interfaces.",
+    "typography_pairing": "Space Grotesk + IBM Plex Mono",
+    "color_palette": [
+      "#1A1A1A",
+      "#E0E0E0",
+      "#6A8CFF",
+      "#FFFFFF"
+    ],
+    "pro_prompt_system": "Design a comprehensive WCAG 2.2 AA compliant dark mode theme for an AI assistant conversation UI. Focus on minimum contrast ratios for text, interactive elements, and disabled states. Include specifications for disclosure banners, conversation pace indicators, and seamless human-AI handoff prompts. Provide detailed color values and font sizes for optimal readability and accessibility.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202610210652-3",
+    "date": "2026-10-21",
+    "title": "Automated Brand Asset Spec Sheet",
+    "category": "Typography & Brand",
+    "trend_signal": "This system bridges rough concepts to final sign-off by automating precise layout specifications, echoing KDP spine formulas. It drastically reduces manual error and iteration time, ensuring impeccable brand consistency across diverse print and digital media.",
+    "typography_pairing": "Archivo Black + Fira Code",
+    "color_palette": [
+      "#002147",
+      "#5DADE2",
+      "#F2F2F2",
+      "#CC3333"
+    ],
+    "pro_prompt_system": "Generate a detailed brand asset specification sheet for a hypothetical book cover. Include dynamic calculations for spine width based on page count and paper stock (e.g., 300 pages, 60# cream). Specify exact bleed, trim, and safety margins. Detail typography usage for title, author, and blurb, alongside color profiles (CMYK/RGB) and high-res image requirements. Provide a 15-line script example for automated validation.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202610200658-1",
     "date": "2026-10-20",
     "title": "AI Flow Audit Protocol",
