@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202610220656-1",
+    "date": "2026-10-22",
+    "title": "AI De-Slop Web Layout System",
+    "category": "UI & Layout",
+    "trend_signal": "AI-generated UI often suffers from generic, over-rounded aesthetics and poor hierarchy. This pattern performs by integrating human-centric design principles, transforming 'slop' into clean, purposeful layouts that significantly boost user engagement and conversion rates.",
+    "typography_pairing": "Inter Display + Source Sans Pro",
+    "color_palette": [
+      "#282C34",
+      "#61AFEF",
+      "#E06C75",
+      "#ABB2BF"
+    ],
+    "pro_prompt_system": "Leverage a grid-based system, prioritizing negative space and clear visual hierarchy. Use sharp corners or subtle rounding (max 4px radius). Ensure call-to-actions are distinct. Avoid giant cards; instead, group related content with minimal borders. Focus on direct, functional messaging over decorative elements.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202610220656-2",
+    "date": "2026-10-22",
+    "title": "Consistent Photo-to-Video Motion Framework",
+    "category": "Motion & 3D",
+    "trend_signal": "The demand for high-quality, consistent AI-generated video from static images is skyrocketing for brand campaigns. This workflow ensures repeatable visual themes and character transformations, crucial for maintaining brand identity and narrative continuity across diverse media formats.",
+    "typography_pairing": "PP Mori + IBM Plex Mono",
+    "color_palette": [
+      "#0A0A0A",
+      "#FF6B6B",
+      "#4ECDC4",
+      "#FFC300"
+    ],
+    "pro_prompt_system": "Input: [Image URL]. Transform this [subject] into [target description] with [specific action/emotion]. Maintain [original lighting/mood] while applying a [motion style, e.g., 'smooth cinematic pan', 'dynamic zoom with subtle glitch']. Output: 5-second video, 1080p, MP4, consistent character visual, specific atmosphere.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202610220656-3",
+    "date": "2026-10-22",
+    "title": "Semantic Agent Prompt Architecture",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "Moving beyond literal keyword matching, AI agents now require prompts that guide deep semantic understanding and multi-step reasoning. This architecture elevates agent performance by fostering genuine intent comprehension, leading to more intelligent and contextually relevant outputs from complex queries.",
+    "typography_pairing": "JetBrains Mono + Fira Sans",
+    "color_palette": [
+      "#1A1A2E",
+      "#0F3460",
+      "#E94560",
+      "#533483"
+    ],
+    "pro_prompt_system": "Agent Role: [Define persona & expertise]. Task: [Clear, specific goal]. Context: [Relevant background info]. Constraints: [Limitations, format]. Reasoning Steps: 1. [Understand intent]; 2. [Gather data]; 3. [Analyze & Synthesize]; 4. [Formulate response]. Output format: [Desired structure].",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202610210652-1",
     "date": "2026-10-21",
     "title": "AI-Driven Ethical Referral UX",
