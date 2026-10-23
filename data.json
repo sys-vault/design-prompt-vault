@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202610230649-1",
+    "date": "2026-10-23",
+    "title": "Content-First Grid System",
+    "category": "UI & Layout",
+    "trend_signal": "This pattern directly counters the generic 'dark gradient, glowing card' portfolio fatigue by leveraging multi-column grids and varied content blocks. It mimics editorial layouts to prioritize information hierarchy and visual interest, converting users through a memorable, unique experience that feels authentic and substantive.",
+    "typography_pairing": "Tiempos Headline + Inter",
+    "color_palette": [
+      "#2C3E50",
+      "#ECF0F1",
+      "#95A5A6",
+      "#E74C3C"
+    ],
+    "pro_prompt_system": "Design a multi-column, content-first web layout for a portfolio. Emphasize asymmetric grids, varied media blocks (text, image, embed), and clear typographic hierarchy. Use a muted, editorial color palette with high contrast for key calls-to-action. Avoid glowing elements; focus on readable, dynamic content presentation.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202610230649-2",
+    "date": "2026-10-23",
+    "title": "AI-Native Motion Code Generation",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The industry is rapidly evolving beyond template-based motion graphics towards AI models that generate animation code and self-correct. This workflow enables unprecedented customization and rapid iteration, ensuring brand consistency and unique visual storytelling without manual animation overhead, driving efficiency and innovation.",
+    "typography_pairing": "Outfit + JetBrains Mono",
+    "color_palette": [
+      "#1A1A2E",
+      "#0F3460",
+      "#E94560",
+      "#FCF9F9"
+    ],
+    "pro_prompt_system": "Generate a 15-second motion graphic sequence as code (e.g., Lottie JSON or JavaScript animation directives). The animation should visually represent 'data flow into insight' with smooth transitions and abstract geometric shapes. Specify precise easing functions, object transformations, and color keyframes. Prioritize efficiency and elegant code structure for scalability.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202610230649-3",
+    "date": "2026-10-23",
+    "title": "Authentic Retro UI Contract",
+    "category": "Typography & Brand",
+    "trend_signal": "As AI blurs digital experience lines, genuine interactive 3D and intentional retro UI choices gain value over superficial 'AI video' hero sections. This pattern leverages pixel/retro typography and clear UI 'contracts' to establish an honest, engaging digital experience that communicates authenticity and a distinct brand personality.",
+    "typography_pairing": "Press Start 2P + IBM Plex Mono",
+    "color_palette": [
+      "#000000",
+      "#00FFFF",
+      "#FF00FF",
+      "#FFFF00"
+    ],
+    "pro_prompt_system": "Develop a UI design system spec for a 'text-to-image' product interface. Focus on a retro-futuristic aesthetic. Implement pixel-perfect typography for all numerical and interactive elements. Define UI contracts for button states, input fields, and loading animations using precise pixel grid alignments and a limited, high-contrast color palette. Ensure interactive elements clearly convey their function through animation.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202610220656-1",
     "date": "2026-10-22",
     "title": "AI De-Slop Web Layout System",
