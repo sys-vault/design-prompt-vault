@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202610240646-1",
+    "date": "2026-10-24",
+    "title": "Newspaper Grid UI: Retro-Functional Type",
+    "category": "UI & Layout",
+    "trend_signal": "The market rejects generic \"dark gradient cards.\" Users seek unique, content-first UIs that act as clear contracts. This pattern leverages structured grids and distinct retro typography to create a memorable, functional user experience, moving beyond superficial aesthetics.",
+    "typography_pairing": "Press Start 2P + IBM Plex Mono",
+    "color_palette": [
+      "#2A2F36",
+      "#F0F0F0",
+      "#D62828",
+      "#7A828C"
+    ],
+    "pro_prompt_system": "Design a responsive web portfolio inspired by a vintage newspaper layout. Utilize a strict grid system for content blocks, emphasizing clear sectioning. Implement 'Press Start 2P' for all headings and 'IBM Plex Mono' for body text and code snippets. Ensure the color palette is limited to `#2A2F36`, `#F0F0F0`, `#D62828`, and `#7A828C`. Focus on readability and information hierarchy over visual fluff, making each UI element a clear user contract.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202610240646-2",
+    "date": "2026-10-24",
+    "title": "AI-Driven Generative Motion Code",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The industry is moving beyond template-based motion. AI that generates motion graphics as code, self-corrects, and ensures data integrity represents the pinnacle of efficiency and precision. This workflow enables rapid prototyping and final asset generation without manual keyframing.",
+    "typography_pairing": "Inter + Fira Code",
+    "color_palette": [
+      "#1A202C",
+      "#4FD1C5",
+      "#E2E8F0",
+      "#CBD5E0"
+    ],
+    "pro_prompt_system": "Generate a Python/After Effects expression script for a 15-second intro animation. The script should feature dynamic text revealing character-by-character, accompanied by a subtle grid line animation expanding from the center. Ensure easing functions are cubic-bezier(0.85, 0, 0.15, 1) for all movements. Text should animate on a delay of 0.05s per character. Define variables for font properties, colors (`#1A202C`, `#4FD1C5`), and animation duration for easy modification.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202610240646-3",
+    "date": "2026-10-24",
+    "title": "Interactive 3D UI Contracts",
+    "category": "Motion & 3D",
+    "trend_signal": "Superficial AI-generated video is being rejected as '3D development.' True interactive 3D experiences, especially with clear UI grammar like Balatro's, offer deep user engagement. This pattern focuses on developing authentic, interactive 3D interfaces that function as intuitive contracts, not just visual flair.",
+    "typography_pairing": "Montserrat + Roboto Mono",
+    "color_palette": [
+      "#0A0B0F",
+      "#00FFFF",
+      "#6A6E7B",
+      "#FFFFFF"
+    ],
+    "pro_prompt_system": "Develop an interactive 3D web UI where navigation elements are spatially distributed and react to user proximity. Each element must clearly communicate its function via a 'Balatro-esque' UI contract: hover state illuminates the object and displays a concise tooltip using 'Roboto Mono', while click triggers a smooth camera transition. All typography uses 'Montserrat' for titles, 'Roboto Mono' for data. Ensure real-time rendering, not pre-rendered video, with a color palette of `#0A0B0F`, `#00FFFF`, `#6A6E7B`, `#FFFFFF`.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202610230649-1",
     "date": "2026-10-23",
     "title": "Content-First Grid System",
