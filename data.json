@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202610250710-1",
+    "date": "2026-10-25",
+    "title": "Anti-Generic AI Layout Directives",
+    "category": "UI & Layout",
+    "trend_signal": "AI agents frequently default to predictable UI patterns (centered headline, purple gradient, three cards) leading to visual monotony and diluted brand identity. This system leverages explicit negative constraints and unique compositional principles to guide AI toward fresh, non-standard layouts that capture attention.",
+    "typography_pairing": "Outfit + Inter",
+    "color_palette": [
+      "#3A0CA3",
+      "#F72585",
+      "#4CC9F0",
+      "#4361EE"
+    ],
+    "pro_prompt_system": "Develop a landing page layout. Absolutely no centered headlines, soft purple gradients, or three-column icon cards. Prioritize asymmetrical balance, a strong vertical rhythm, and a primary call-to-action positioned in the top-right quadrant, contrasting sharply with a secondary element in the bottom-left. Utilize a split-screen approach with distinct typography for each half, emphasizing visual tension and dynamic flow.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202610250710-2",
+    "date": "2026-10-25",
+    "title": "Browser 3D Physics Narratives",
+    "category": "Motion & 3D",
+    "trend_signal": "The emergence of advanced browser-based motion tools (like AtomCut) democratizes complex animation, enabling rapid prototyping of 3D, physics, and expression-driven sequences. This creates a demand for efficient systems to craft engaging, performant narratives directly in the browser, bypassing traditional software barriers.",
+    "typography_pairing": "Space Grotesk + Fira Code",
+    "color_palette": [
+      "#0A0A0A",
+      "#E0E0E0",
+      "#FF4500",
+      "#1E90FF"
+    ],
+    "pro_prompt_system": "Design a 15-second browser-optimized animated brand reveal. Keyframe object movement using cubic bezier curves. Integrate soft body physics for the logo's initial appearance, followed by a dynamic particle explosion driven by expressions. Ensure depth-of-field transitions focus on key textual elements. Final output must be web-ready, demonstrating smooth 60fps performance across modern browsers.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202610250710-3",
+    "date": "2026-10-25",
+    "title": "Semantic Brand System for AI",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The shift from describing designs to providing a 'DESIGN.md' for AI agents highlights the need for structured, semantic brand guidelines. This ensures AI generates consistent, nuanced visual outputs across contexts, overcoming generic interpretations and addressing cross-platform rendering variations like emoji discrepancies.",
+    "typography_pairing": "DM Serif Display + Source Sans Pro",
+    "color_palette": [
+      "#2C3E50",
+      "#ECF0F1",
+      "#E74C3C",
+      "#27AE60"
+    ],
+    "pro_prompt_system": "Architect a 'DESIGN.md' equivalent for an AI agent. Define semantic associations for brand elements: 'hero_headline' = bold, authoritative, 'secondary_text' = informative, accessible, 'call_to_action_button' = urgent, inviting. Specify rendering priorities for dark mode vs. light mode, and cross-platform font fallback hierarchies to ensure consistent brand voice regardless of display environment or agent interpretation.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202610240646-1",
     "date": "2026-10-24",
     "title": "Newspaper Grid UI: Retro-Functional Type",
