@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202610270710-1",
+    "date": "2026-10-27",
+    "title": "AI Visual Blueprint Composer",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "Canva Craft's 'plans the picture before it paints it' highlights the power of AI to pre-visualize complex layouts. This approach minimizes creative dead ends by establishing strong compositional foundations before detailed rendering, significantly speeding up design iteration and client approvals.",
+    "typography_pairing": "Inter Bold + IBM Plex Sans",
+    "color_palette": [
+      "#1C2E4A",
+      "#4A6C8C",
+      "#B0D4EE",
+      "#F2F5F7"
+    ],
+    "pro_prompt_system": "As a Creative Director, generate a detailed visual blueprint for a [product/scene] in an [art style]. Focus purely on compositional flow, light direction, focal points, and object placement. No rendering, just an annotated wireframe or schematic plan. Include camera angle and lens type. Emphasize [key element] using [visual technique]. Output as a detailed text description of visual intent.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202610270710-2",
+    "date": "2026-10-27",
+    "title": "Autonomous Agent UI Fabricator",
+    "category": "UI & Layout",
+    "trend_signal": "Framer MCP's capability for AI agents to design websites without opening an editor signifies a major shift towards autonomous design systems. This pattern leverages AI to translate high-level intent into functional interfaces, accelerating prototyping and allowing designers to focus on strategic direction and refinement rather than manual execution.",
+    "typography_pairing": "Geist Sans Bold + JetBrains Mono",
+    "color_palette": [
+      "#0A0A0A",
+      "#1C1C1C",
+      "#4CAF50",
+      "#F0F0F0"
+    ],
+    "pro_prompt_system": "Design a fully responsive, data-driven [e-commerce/ SaaS dashboard/ portfolio] website using an AI agent. Prioritize [specific user goal] and integrate dynamic content feeds for [data type]. Ensure intuitive navigation, accessible components, and a [modern/minimalist/bold] aesthetic. Generate all necessary HTML, CSS, and interactive JavaScript elements, ready for deployment. Focus on performance and SEO.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202610270710-3",
+    "date": "2026-10-27",
+    "title": "Global 3D Configurator Preview",
+    "category": "Motion & 3D",
+    "trend_signal": "The demand for useful vehicle-wrap preview workflows and 3D IDEs like ArtCraft highlights the critical need for interactive, localized 3D configurators. This pattern enhances user engagement by allowing real-time customization and accurate cultural adaptation of visual assets, ensuring global market relevance and reducing errors in complex visual projects.",
+    "typography_pairing": "Oswald Semibold + Open Sans",
+    "color_palette": [
+      "#2C3E50",
+      "#ECF0F1",
+      "#3498DB",
+      "#E74C3C"
+    ],
+    "pro_prompt_system": "Develop a photorealistic, interactive 3D configurator preview for a [product type, e.g., 'luxury sedan'] with dynamic wrap designs. Enable real-time material, color, and texture changes. Crucially, integrate a localization module for all UI text and any embedded graphic elements, supporting [language list, e.g., 'English, Vietnamese, Thai, Portuguese']. Ensure accurate rendering across diverse lighting conditions and camera angles, optimized for web deployment.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202610250710-1",
     "date": "2026-10-25",
     "title": "Anti-Generic AI Layout Directives",
