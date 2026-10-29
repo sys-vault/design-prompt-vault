@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202610290754-1",
+    "date": "2026-10-29",
+    "title": "AI UI: Brand Color Integration",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The signals highlight that early brand color prompts stick, yet AI-built UIs often look generic. Integrating strong, consistent brand colors from the outset prevents blandness and establishes identity, improving recognition and user trust.",
+    "typography_pairing": "Inter Bold + DM Sans Regular",
+    "color_palette": [
+      "#2C3E50",
+      "#E74C3C",
+      "#ECF0F1",
+      "#3498DB"
+    ],
+    "pro_prompt_system": "Generate a clean, modern dashboard UI. Ensure the primary brand color is #3498DB, secondary is #E74C3C, and use #ECF0F1 for backgrounds. Integrate #2C3E50 for text. Focus on clear data visualization and intuitive navigation. Avoid generic gradients; prioritize flat design elements with subtle shadows for depth and professionalism.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202610290754-2",
+    "date": "2026-10-29",
+    "title": "Kinetic Share Card System",
+    "category": "Motion & 3D",
+    "trend_signal": "New DEV share cards demonstrate that a compelling visual asset significantly boosts content engagement. A kinetic share card system grabs attention in crowded feeds, increasing click-through rates and brand visibility by pre-communicating value and polish through subtle animation.",
+    "typography_pairing": "Poppins SemiBold + Fira Sans Regular",
+    "color_palette": [
+      "#5A2D8D",
+      "#FFC107",
+      "#F0F0F0",
+      "#333333"
+    ],
+    "pro_prompt_system": "Design a 4-second kinetic share card for a tech article. Feature a smooth transition from a blurred hero image to sharp text overlay. Title (Poppins SemiBold) animates in with a subtle bounce, subtext (Fira Sans) fades in below. Incorporate a brand logo (#5A2D8D) scaling from 0.8x to 1x at the end. Use a refined motion curve (ease-out-expo).",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202610290754-3",
+    "date": "2026-10-29",
+    "title": "Delayed Reveal UX Pattern",
+    "category": "UI & Layout",
+    "trend_signal": "The 'Sealed Wish Wall' concept highlights the power of delayed gratification in user contributions. This pattern performs by building anticipation and encouraging thoughtful input, leading to higher perceived value and engagement upon reveal, avoiding immediate content fatigue.",
+    "typography_pairing": "Outfit Bold + Roboto Regular",
+    "color_palette": [
+      "#1C2833",
+      "#F5B041",
+      "#AED6F1",
+      "#2ECC71"
+    ],
+    "pro_prompt_system": "Design a 'delayed reveal' UI component for user-submitted content. It should feature a placeholder card with a countdown or 'sealed until [date]' label. Upon reveal, content (Roboto Regular) smoothly expands from the card. Ensure clear visual hierarchy: Outfit Bold for countdown, #F5B041 for key dates, and a subtle animation for the reveal action. Provide both sealed and revealed states.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202610280748-1",
     "date": "2026-10-28",
     "title": "AI Visual Configurator Preview System",
