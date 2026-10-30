@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202610300757-1",
+    "date": "2026-10-30",
+    "title": "Dynamic Share Card Layout System",
+    "category": "UI & Layout",
+    "trend_signal": "High-impact social share cards drive clicks and brand recognition, crucial for content distribution. This system ensures visual consistency and mobile legibility across platforms, converting impressions into engagement through optimized visual hierarchy and responsive design.",
+    "typography_pairing": "Inter Display + Source Sans Pro",
+    "color_palette": [
+      "#1A1A1A",
+      "#FF5C5C",
+      "#4CAF50",
+      "#FFD700"
+    ],
+    "pro_prompt_system": "Design a responsive share card template for an article. Feature a prominent, auto-cropped hero image (1.91:1 aspect ratio), bold headline (max 50 chars), and subtle brand logo. Ensure text contrast for dark/light modes and legibility on mobile. Include a dynamic indicator for article type (e.g., 'New Feature' tag) that adjusts color.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202610300757-2",
+    "date": "2026-10-30",
+    "title": "Anti-AI Generic Design Prompt",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The market increasingly demands AI-generated content that feels bespoke and human-crafted, not generic. This workflow counters common AI aesthetic pitfalls, producing unique and authentic visual results that resonate deeply with discerning audiences and stand out from automated outputs.",
+    "typography_pairing": "Playfair Display SC + IBM Plex Sans Text",
+    "color_palette": [
+      "#2C3E50",
+      "#E67E22",
+      "#BDC3C7",
+      "#7F8C8D"
+    ],
+    "pro_prompt_system": "Generate a website hero section for a luxury artisanal bakery. Focus on hand-drawn, imperfect elements, warm lighting, and a subtle sense of texture. Avoid geometric patterns or stock photography aesthetics. Emphasize natural light, bokeh effects, and a composition that feels organic and handcrafted, capturing genuine warmth and a unique brand personality.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202610300757-3",
+    "date": "2026-10-30",
+    "title": "Seamless Smart Home Integration VFX",
+    "category": "Motion & 3D",
+    "trend_signal": "Homeowners seek advanced functionality without visual clutter, demanding elegant integration in their living spaces. This motion system leverages subtle VFX to highlight hidden smart features and dynamic mood lighting, showcasing luxury and thoughtful design in architectural walkthroughs and product demos.",
+    "typography_pairing": "Montserrat Thin + Open Sans Light",
+    "color_palette": [
+      "#0A0A0A",
+      "#4CAF50",
+      "#2196F3",
+      "#FFEB3B"
+    ],
+    "pro_prompt_system": "Create a 15-second architectural visualization animation showcasing a living room's smart features. Focus on subtle, volumetric light effects revealing hidden storage, dynamic mood lighting transitions, and air conditioning vents seamlessly appearing/disappearing. Emphasize smooth, slow camera movements and a tranquil, futuristic aesthetic, highlighting user-centric design through motion.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202610290754-1",
     "date": "2026-10-29",
     "title": "AI UI: Brand Color Integration",
