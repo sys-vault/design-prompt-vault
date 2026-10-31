@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202610310751-1",
+    "date": "2026-10-31",
+    "title": "Tactile UI & Physics-Driven Motion",
+    "category": "Motion & 3D",
+    "trend_signal": "Developers and tech creators are actively moving away from flat UIs. This pattern leverages depth, haptics, and physics-based motion to create interfaces that feel more responsive and 'real' to the user, significantly boosting engagement and perceived quality.",
+    "typography_pairing": "Inter (Display) + IBM Plex Sans (Body/Mono)",
+    "color_palette": [
+      "#1A1A1A",
+      "#FF6B6B",
+      "#FFD93D",
+      "#6BCB77"
+    ],
+    "pro_prompt_system": "Design a responsive, interactive component for a financial dashboard. It must feature tactile feedback, subtle skeuomorphic depth, and physics-driven motion for state changes. Focus on a button that 'depresses' with a slight bounce and an input field with a soft, glowing focus state, implying physical interaction. Use a neutral background.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202610310751-2",
+    "date": "2026-10-31",
+    "title": "F1 Dashboard Data Visualization System",
+    "category": "UI & Layout",
+    "trend_signal": "The F1-style dashboard trend signals a demand for highly dynamic, dense, and instantly readable data interfaces. This visual pattern performs by distilling complex information into a single, interactive screen, offering a high-performance, gamified user experience that enhances engagement and quick decision-making.",
+    "typography_pairing": "Aldrich (Display) + Space Mono (Body/Mono)",
+    "color_palette": [
+      "#0D1117",
+      "#00F9FF",
+      "#FF2D73",
+      "#FFC700"
+    ],
+    "pro_prompt_system": "Generate an F1-inspired dashboard layout for a developer portfolio. Emphasize real-time data visualization of project progress, commit activity, and skill proficiency. Include distinct, color-coded zones for 'Telemetry,' 'Performance Metrics,' and 'Active Projects,' using dynamic gauges and interactive charts. Ensure a dark, high-contrast aesthetic with minimal whitespace for maximum data density.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202610310751-3",
+    "date": "2026-10-31",
+    "title": "In-Browser 3D Spatial Design",
+    "category": "Motion & 3D",
+    "trend_signal": "The emergence of tools for designing exhibition stalls directly in-browser highlights a growing need for accessible 3D spatial design. This workflow pattern allows for rapid prototyping and client collaboration on immersive environments, significantly reducing iteration time and opening new possibilities for virtual experiences.",
+    "typography_pairing": "Outfit (Display) + Geist Mono (Body/Mono)",
+    "color_palette": [
+      "#FFFFFF",
+      "#1E1E1E",
+      "#00BFFF",
+      "#FF69B4"
+    ],
+    "pro_prompt_system": "Create a 3D interactive exhibition booth concept for a tech startup, renderable within a browser environment. The design should be modular, featuring brand-specific elements, interactive product displays, and a virtual meeting area. Specify materials like brushed aluminum, diffused glass, and a large, dynamic LED screen showcasing product animations. Focus on optimal lighting and spatial flow.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202610300757-1",
     "date": "2026-10-30",
     "title": "Dynamic Share Card Layout System",
