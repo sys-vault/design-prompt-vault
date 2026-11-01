@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611010832-1",
+    "date": "2026-11-01",
+    "title": "AI Product Demo UI Blueprint",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "Rapid prototyping and clean presentation are crucial for early-stage product validation and investor pitches. This pattern allows for quick iteration and compelling visual communication without full development overhead.",
+    "typography_pairing": "Inter Display + Source Code Pro",
+    "color_palette": [
+      "#1A1A1A",
+      "#FFFFFF",
+      "#F0F2F5",
+      "#4CAF50"
+    ],
+    "pro_prompt_system": "Generate a minimalist, high-fidelity UI screen for a \"Smart Home Control\" app. Focus on a dashboard view with clean data visualization, actionable toggles for lights/thermostat, and a subtle notification area. Use a modern, accessible aesthetic with a dark mode option. Ensure all elements are clearly labeled for an AI coding agent to interpret as 'faux UI' components for a Stageshow demo.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611010832-2",
+    "date": "2026-11-01",
+    "title": "Dynamic Surface Text Mapping",
+    "category": "Typography & Brand",
+    "trend_signal": "As products become more customized and physically complex, designers need solutions that bridge digital fidelity with real-world material constraints. This system ensures typographic integrity across diverse physical and digital curvatures, avoiding costly production errors.",
+    "typography_pairing": "Monument Extended + Degular Text",
+    "color_palette": [
+      "#2C3E50",
+      "#ECF0F1",
+      "#E74C3C",
+      "#3498DB"
+    ],
+    "pro_prompt_system": "Design a non-destructive curved text treatment for a sneaker's lateral side panel. The text 'FUTUREWEAR' must dynamically adapt to the complex, multi-curved surface, maintaining legibility without pixel distortion or 'object to path' conversion. Provide SVG specifications for path-based text rendering, ensuring it remains editable as live text while simulating physical stretch and compression across the 3D mesh. Prioritize clean, scalable vector output.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611010832-3",
+    "date": "2026-11-01",
+    "title": "Adaptive Fold-Aware Form UX",
+    "category": "UI & Layout",
+    "trend_signal": "The rise of multi-screen and foldable devices demands sophisticated UI that intelligently adapts beyond simple breakpoints. This system ensures critical information and complex input forms remain intuitive and error-free across dynamic display states and user contexts.",
+    "typography_pairing": "SF Pro Display + Roboto Mono",
+    "color_palette": [
+      "#0A1128",
+      "#E6E8EB",
+      "#D9E3F0",
+      "#546E7A"
+    ],
+    "pro_prompt_system": "Create an adaptive layout for a 'Tax Fiduciary Designation' form on a foldable phone (e.g., iPhone Duo). In folded mode, display key summary fields and a 'Continue' button, prioritizing essential data. When unfolded, expand to reveal detailed input fields, validation, and dynamic role-based sections for 'Taxpayer' and 'Designee' with clear visual separation. Ensure seamless transition and interaction continuity across fold states.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202610310751-1",
     "date": "2026-10-31",
     "title": "Tactile UI & Physics-Driven Motion",
