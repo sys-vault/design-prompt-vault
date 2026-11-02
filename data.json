@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611020843-1",
+    "date": "2026-11-02",
+    "title": "Foldable UI: Duo-Screen Adaptive Blueprint",
+    "category": "UI & Layout",
+    "trend_signal": "The rise of foldable form factors like 'iPhone Duo' demands a fluid, adaptive UI. This pattern ensures seamless user experience across varied screen states (folded, unfolded, outer display), converting engagement by minimizing friction and maximizing utility in novel interaction paradigms.",
+    "typography_pairing": "Inter Variable + Roboto Mono",
+    "color_palette": [
+      "#1E293B",
+      "#64748B",
+      "#E2E8F0",
+      "#F8FAFC"
+    ],
+    "pro_prompt_system": "Design a responsive e-commerce product detail page for a foldable device (e.g., iPhone Duo). Focus on optimal layout for outer short screen (quick info/CTA), inner large screen (rich media/details), and smooth transitions between states. Emphasize scrollable content, clear navigation, and dynamic image scaling across viewports.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611020843-2",
+    "date": "2026-11-02",
+    "title": "Cohesive Iconography System Builder",
+    "category": "Typography & Brand",
+    "trend_signal": "Inconsistent iconography is a silent killer of UI quality and brand perception. This system leverages precise rules to generate visually harmonious icon sets, boosting user trust and brand professionalism by ensuring every visual element speaks with one voice.",
+    "typography_pairing": "Neue Haas Grotesk Display Pro + IBM Plex Sans",
+    "color_palette": [
+      "#334155",
+      "#6B7280",
+      "#CBD5E1",
+      "#F1F5F9"
+    ],
+    "pro_prompt_system": "Generate a 30-icon line set for a SaaS dashboard: communication, analytics, settings, user profiles, data entry, reports. Ensure a consistent stroke weight (2px), corner radius (4px), and optical balance. Maintain a minimalist, geometric style. Output in SVG format with a 24x24px canvas, optimized for clarity at small sizes.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611020843-3",
+    "date": "2026-11-02",
+    "title": "M3 Custom Component AI Architect",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "While Material 3 offers robust foundations, brand differentiation requires personalized component styling. This workflow rapidly generates bespoke M3 components tailored to unique brand guides, significantly accelerating development and ensuring a distinct, premium digital presence.",
+    "typography_pairing": "Plus Jakarta Sans + Source Code Pro",
+    "color_palette": [
+      "#673AB7",
+      "#9C27B0",
+      "#E1BEE7",
+      "#F3E5F5"
+    ],
+    "pro_prompt_system": "Design a custom Material 3 'Filled Button' component. Primary color: #673AB7, on-primary: #FFFFFF. Border radius: 12px. Font: Plus Jakarta Sans Bold, 16px. Add a subtle 2px inner shadow on hover, #000000 with 10% opacity, and a slight scale-up animation. Show default, hover, and disabled states.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611010832-1",
     "date": "2026-11-01",
     "title": "AI Product Demo UI Blueprint",
