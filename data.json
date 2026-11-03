@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611030854-1",
+    "date": "2026-11-03",
+    "title": "Adaptive Type Scale & Layout System",
+    "category": "UI & Layout",
+    "trend_signal": "The explosion of screen sizes and the emphasis on accessibility demand fluid, responsive typography. This system ensures visual harmony and readability across all devices by intelligently adapting font sizes and layout structures.",
+    "typography_pairing": "Inter Variable + JetBrains Mono",
+    "color_palette": [
+      "#1A1A1A",
+      "#F0F0F0",
+      "#5C6BC0",
+      "#FFCC80"
+    ],
+    "pro_prompt_system": "Generate a responsive web layout design for a tech news portal. Emphasize a clear visual hierarchy and adaptive typography for screens from mobile to ultrawide 21:9. Implement a fluid type scale, ensuring readability at all breakpoints. Use clean, geometric shapes for UI elements and a dark mode default. Incorporate content-aware scaling for hero images.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611030854-2",
+    "date": "2026-11-03",
+    "title": "Biomimetic Flow Motion System",
+    "category": "Motion & 3D",
+    "trend_signal": "As digital experiences become more immersive, motion design that feels organic and effortless enhances user engagement. This system leverages natural principles of growth and efficiency to create fluid, performant animations that captivate.",
+    "typography_pairing": "Neue Haas Grotesk Display + IBM Plex Sans",
+    "color_palette": [
+      "#2E8B57",
+      "#F0FFF0",
+      "#6A5ACD",
+      "#FFD700"
+    ],
+    "pro_prompt_system": "Create a 6-second abstract motion graphic sequence for a sustainable tech brand identity. The animation should mimic cellular growth and fluid dynamics, evolving from a single point into a complex, interconnected network. Focus on smooth, low-latency transitions and organic forms, inspired by optimized data flow. Use a soft, gradients-based lighting model and a natural, evolving sound design.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611030854-3",
+    "date": "2026-11-03",
+    "title": "Global Script 3D Asset Weaver",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The vast availability of diverse global typefaces presents a unique opportunity for culturally rich 3D assets. This workflow leverages AI to transform intricate scripts into tangible, print-ready, or motion-ready volumetric designs, offering fresh branding possibilities.",
+    "typography_pairing": "Noto Serif Display + Source Code Pro",
+    "color_palette": [
+      "#8B4513",
+      "#FDF5E6",
+      "#4682B4",
+      "#DAA520"
+    ],
+    "pro_prompt_system": "Architect a series of 3D printable small decorative objects that intricately integrate calligraphic elements from historical 'Sovereign Script Vaults'. The prompt should guide an AI to generate low-poly, manifold mesh models, emphasizing elegant curves and structural integrity suitable for FDM printing. Explore variations in material texture (e.g., wood grain, polished metal). Focus on a fusion of ancient script aesthetics with modern fabrication.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611020843-1",
     "date": "2026-11-02",
     "title": "Foldable UI: Duo-Screen Adaptive Blueprint",
