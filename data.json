@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611040826-1",
+    "date": "2026-11-04",
+    "title": "Lean Reference AI Visuals",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "AI image generation benefits from selective, high-impact references over excessive inputs. This pattern optimizes processing, reduces noise, and yields sharper, more coherent visual outputs by focusing AI's attention on core aesthetic elements.",
+    "typography_pairing": "Inter (display) + JetBrains Mono (body/mono)",
+    "color_palette": [
+      "#2C3E50",
+      "#ECF0F1",
+      "#3498DB",
+      "#E74C3C"
+    ],
+    "pro_prompt_system": "Generate a hyper-realistic product shot of a minimalist smart device. Use exactly four high-fidelity reference images, focusing on lighting, material texture, and composition. Ensure embedded text on the device screen is perfectly accurate and proofread, enclosed in quotes for precision. Apply a slight depth of field.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611040826-2",
+    "date": "2026-11-04",
+    "title": "Invisible AI Brand Audit",
+    "category": "Typography & Brand",
+    "trend_signal": "The gap between AI and human design evaluation demands a system where AI performs initial analysis, then human experts refine. This workflow ensures AI-driven speed doesn't compromise brand authenticity or strategic nuance, creating seamlessly integrated, 'invisible' design improvements.",
+    "typography_pairing": "Poppins (display) + Open Sans (body/mono)",
+    "color_palette": [
+      "#1A202C",
+      "#A0AEC0",
+      "#CBD5E0",
+      "#4A5568"
+    ],
+    "pro_prompt_system": "Act as a senior brand strategist. Analyze the provided corporate identity guide and website screenshots. Identify inconsistencies in typography, color usage, and layout adherence. Generate a detailed report flagging areas where AI-generated content might deviate from established brand guidelines, prioritizing human review for strategic impact and emotional resonance.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611040826-3",
+    "date": "2026-11-04",
+    "title": "Precision QR Color & Mode",
+    "category": "UI & Layout",
+    "trend_signal": "Optimizing QR code capacity by understanding data mode before size minimizes visual clutter and enhances scan reliability. Integrating precise CSS color naming ensures brand consistency and accessibility across digital and print applications, improving conversion rates.",
+    "typography_pairing": "Roboto Condensed (display) + Fira Code (body/mono)",
+    "color_palette": [
+      "#000000",
+      "#FFFFFF",
+      "#2E8B57",
+      "#8A2BE2"
+    ],
+    "pro_prompt_system": "Design a dynamic QR code for a marketing campaign. Use data mode 'Alphanumeric' for the URL 'EXAMPLE.COM/PROMOCODE' to optimize capacity. Ensure a 33-module quiet zone. Render the QR code's foreground in 'SeaGreen' (#2E8B57) and background in 'GhostWhite' (#F8F8FF). Include a subtle animated scan effect with a 'BlueViolet' (#8A2BE2) highlight.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611030854-1",
     "date": "2026-11-03",
     "title": "Adaptive Type Scale & Layout System",

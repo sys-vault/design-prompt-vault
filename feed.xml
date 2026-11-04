@@ -6,146 +6,146 @@
     <atom:link href="https://sys-vault.github.io/design-prompt-vault/feed.xml" rel="self" type="application/rss+xml" />
     <description>Autonomous daily radar of UI layouts, 60fps motion specs, typography pairings, and AI prompt systems.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 08:54:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 08:26:18 +0000</lastBuildDate>
+    <item>
+      <title>[AI Prompt Workflow] Lean Reference AI Visuals</title>
+      <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202611040826-1</link>
+      <guid isPermaLink="false">vault-202611040826-1</guid>
+      <pubDate>Wed, 04 Nov 2026 08:26:00 +0000</pubDate>
+      <description>AI image generation benefits from selective, high-impact references over excessive inputs. This pattern optimizes processing, reduces noise, and yields sharper, more coherent visual outputs by focusing AI's attention on core aesthetic elements. | Fonts: Inter (display) + JetBrains Mono (body/mono) | Palette: #2C3E50 #ECF0F1 #3498DB #E74C3C | Prompt: Generate a hyper-realistic product shot of a minimalist smart device. Use exactly four high-fidelity reference images, focusing on lighting, material texture, and composition. Ensure embedded text on the device screen is perfectly accurate and proofread, enclosed in quotes for precision. Apply a slight depth of field.</description>
+    </item>
+    <item>
+      <title>[Typography &amp; Brand] Invisible AI Brand Audit</title>
+      <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202611040826-2</link>
+      <guid isPermaLink="false">vault-202611040826-2</guid>
+      <pubDate>Wed, 04 Nov 2026 08:25:00 +0000</pubDate>
+      <description>The gap between AI and human design evaluation demands a system where AI performs initial analysis, then human experts refine. This workflow ensures AI-driven speed doesn't compromise brand authenticity or strategic nuance, creating seamlessly integrated, 'invisible' design improvements. | Palette: #1A202C #A0AEC0 #CBD5E0 #4A5568 | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
+    </item>
+    <item>
+      <title>[UI &amp; Layout] Precision QR Color &amp; Mode</title>
+      <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202611040826-3</link>
+      <guid isPermaLink="false">vault-202611040826-3</guid>
+      <pubDate>Wed, 04 Nov 2026 08:24:00 +0000</pubDate>
+      <description>Optimizing QR code capacity by understanding data mode before size minimizes visual clutter and enhances scan reliability. Integrating precise CSS color naming ensures brand consistency and accessibility across digital and print applications, improving conversion rates. | Palette: #000000 #FFFFFF #2E8B57 #8A2BE2 | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
+    </item>
     <item>
       <title>[UI &amp; Layout] Adaptive Type Scale &amp; Layout System</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202611030854-1</link>
       <guid isPermaLink="false">vault-202611030854-1</guid>
-      <pubDate>Tue, 03 Nov 2026 08:54:00 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 08:51:00 +0000</pubDate>
       <description>The explosion of screen sizes and the emphasis on accessibility demand fluid, responsive typography. This system ensures visual harmony and readability across all devices by intelligently adapting font sizes and layout structures. | Fonts: Inter Variable + JetBrains Mono | Palette: #1A1A1A #F0F0F0 #5C6BC0 #FFCC80 | Prompt: Generate a responsive web layout design for a tech news portal. Emphasize a clear visual hierarchy and adaptive typography for screens from mobile to ultrawide 21:9. Implement a fluid type scale, ensuring readability at all breakpoints. Use clean, geometric shapes for UI elements and a dark mode default. Incorporate content-aware scaling for hero images.</description>
     </item>
     <item>
       <title>[Motion &amp; 3D] Biomimetic Flow Motion System</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202611030854-2</link>
       <guid isPermaLink="false">vault-202611030854-2</guid>
-      <pubDate>Tue, 03 Nov 2026 08:53:00 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 08:50:00 +0000</pubDate>
       <description>As digital experiences become more immersive, motion design that feels organic and effortless enhances user engagement. This system leverages natural principles of growth and efficiency to create fluid, performant animations that captivate. | Palette: #2E8B57 #F0FFF0 #6A5ACD #FFD700 | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
     </item>
     <item>
       <title>[AI Prompt Workflow] Global Script 3D Asset Weaver</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202611030854-3</link>
       <guid isPermaLink="false">vault-202611030854-3</guid>
-      <pubDate>Tue, 03 Nov 2026 08:52:00 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 08:49:00 +0000</pubDate>
       <description>The vast availability of diverse global typefaces presents a unique opportunity for culturally rich 3D assets. This workflow leverages AI to transform intricate scripts into tangible, print-ready, or motion-ready volumetric designs, offering fresh branding possibilities. | Palette: #8B4513 #FDF5E6 #4682B4 #DAA520 | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
     </item>
     <item>
       <title>[UI &amp; Layout] Foldable UI: Duo-Screen Adaptive Blueprint</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202611020843-1</link>
       <guid isPermaLink="false">vault-202611020843-1</guid>
-      <pubDate>Mon, 02 Nov 2026 08:40:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 08:37:00 +0000</pubDate>
       <description>The rise of foldable form factors like 'iPhone Duo' demands a fluid, adaptive UI. This pattern ensures seamless user experience across varied screen states (folded, unfolded, outer display), converting engagement by minimizing friction and maximizing utility in novel interaction paradigms. | Fonts: Inter Variable + Roboto Mono | Palette: #1E293B #64748B #E2E8F0 #F8FAFC | Prompt: Design a responsive e-commerce product detail page for a foldable device (e.g., iPhone Duo). Focus on optimal layout for outer short screen (quick info/CTA), inner large screen (rich media/details), and smooth transitions between states. Emphasize scrollable content, clear navigation, and dynamic image scaling across viewports.</description>
     </item>
     <item>
       <title>[Typography &amp; Brand] Cohesive Iconography System Builder</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202611020843-2</link>
       <guid isPermaLink="false">vault-202611020843-2</guid>
-      <pubDate>Mon, 02 Nov 2026 08:39:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 08:36:00 +0000</pubDate>
       <description>Inconsistent iconography is a silent killer of UI quality and brand perception. This system leverages precise rules to generate visually harmonious icon sets, boosting user trust and brand professionalism by ensuring every visual element speaks with one voice. | Palette: #334155 #6B7280 #CBD5E1 #F1F5F9 | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
     </item>
     <item>
       <title>[AI Prompt Workflow] M3 Custom Component AI Architect</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202611020843-3</link>
       <guid isPermaLink="false">vault-202611020843-3</guid>
-      <pubDate>Mon, 02 Nov 2026 08:38:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 08:35:00 +0000</pubDate>
       <description>While Material 3 offers robust foundations, brand differentiation requires personalized component styling. This workflow rapidly generates bespoke M3 components tailored to unique brand guides, significantly accelerating development and ensuring a distinct, premium digital presence. | Palette: #673AB7 #9C27B0 #E1BEE7 #F3E5F5 | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
     </item>
     <item>
       <title>[AI Prompt Workflow] AI Product Demo UI Blueprint</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202611010832-1</link>
       <guid isPermaLink="false">vault-202611010832-1</guid>
-      <pubDate>Sun, 01 Nov 2026 08:26:00 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2026 08:23:00 +0000</pubDate>
       <description>Rapid prototyping and clean presentation are crucial for early-stage product validation and investor pitches. This pattern allows for quick iteration and compelling visual communication without full development overhead. | Fonts: Inter Display + Source Code Pro | Palette: #1A1A1A #FFFFFF #F0F2F5 #4CAF50 | Prompt: Generate a minimalist, high-fidelity UI screen for a "Smart Home Control" app. Focus on a dashboard view with clean data visualization, actionable toggles for lights/thermostat, and a subtle notification area. Use a modern, accessible aesthetic with a dark mode option. Ensure all elements are clearly labeled for an AI coding agent to interpret as 'faux UI' components for a Stageshow demo.</description>
     </item>
     <item>
       <title>[Typography &amp; Brand] Dynamic Surface Text Mapping</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202611010832-2</link>
       <guid isPermaLink="false">vault-202611010832-2</guid>
-      <pubDate>Sun, 01 Nov 2026 08:25:00 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2026 08:22:00 +0000</pubDate>
       <description>As products become more customized and physically complex, designers need solutions that bridge digital fidelity with real-world material constraints. This system ensures typographic integrity across diverse physical and digital curvatures, avoiding costly production errors. | Palette: #2C3E50 #ECF0F1 #E74C3C #3498DB | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
     </item>
     <item>
       <title>[UI &amp; Layout] Adaptive Fold-Aware Form UX</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202611010832-3</link>
       <guid isPermaLink="false">vault-202611010832-3</guid>
-      <pubDate>Sun, 01 Nov 2026 08:24:00 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2026 08:21:00 +0000</pubDate>
       <description>The rise of multi-screen and foldable devices demands sophisticated UI that intelligently adapts beyond simple breakpoints. This system ensures critical information and complex input forms remain intuitive and error-free across dynamic display states and user contexts. | Palette: #0A1128 #E6E8EB #D9E3F0 #546E7A | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
     </item>
     <item>
       <title>[Motion &amp; 3D] Tactile UI &amp; Physics-Driven Motion</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202610310751-1</link>
       <guid isPermaLink="false">vault-202610310751-1</guid>
-      <pubDate>Sat, 31 Oct 2026 07:42:00 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 07:39:00 +0000</pubDate>
       <description>Developers and tech creators are actively moving away from flat UIs. This pattern leverages depth, haptics, and physics-based motion to create interfaces that feel more responsive and 'real' to the user, significantly boosting engagement and perceived quality. | Fonts: Inter (Display) + IBM Plex Sans (Body/Mono) | Palette: #1A1A1A #FF6B6B #FFD93D #6BCB77 | Prompt: Design a responsive, interactive component for a financial dashboard. It must feature tactile feedback, subtle skeuomorphic depth, and physics-driven motion for state changes. Focus on a button that 'depresses' with a slight bounce and an input field with a soft, glowing focus state, implying physical interaction. Use a neutral background.</description>
     </item>
     <item>
       <title>[UI &amp; Layout] F1 Dashboard Data Visualization System</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202610310751-2</link>
       <guid isPermaLink="false">vault-202610310751-2</guid>
-      <pubDate>Sat, 31 Oct 2026 07:41:00 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 07:38:00 +0000</pubDate>
       <description>The F1-style dashboard trend signals a demand for highly dynamic, dense, and instantly readable data interfaces. This visual pattern performs by distilling complex information into a single, interactive screen, offering a high-performance, gamified user experience that enhances engagement and quick decision-making. | Palette: #0D1117 #00F9FF #FF2D73 #FFC700 | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
     </item>
     <item>
       <title>[Motion &amp; 3D] In-Browser 3D Spatial Design</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202610310751-3</link>
       <guid isPermaLink="false">vault-202610310751-3</guid>
-      <pubDate>Sat, 31 Oct 2026 07:40:00 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 07:37:00 +0000</pubDate>
       <description>The emergence of tools for designing exhibition stalls directly in-browser highlights a growing need for accessible 3D spatial design. This workflow pattern allows for rapid prototyping and client collaboration on immersive environments, significantly reducing iteration time and opening new possibilities for virtual experiences. | Palette: #FFFFFF #1E1E1E #00BFFF #FF69B4 | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
     </item>
     <item>
       <title>[UI &amp; Layout] Dynamic Share Card Layout System</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202610300757-1</link>
       <guid isPermaLink="false">vault-202610300757-1</guid>
-      <pubDate>Fri, 30 Oct 2026 07:45:00 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:42:00 +0000</pubDate>
       <description>High-impact social share cards drive clicks and brand recognition, crucial for content distribution. This system ensures visual consistency and mobile legibility across platforms, converting impressions into engagement through optimized visual hierarchy and responsive design. | Fonts: Inter Display + Source Sans Pro | Palette: #1A1A1A #FF5C5C #4CAF50 #FFD700 | Prompt: Design a responsive share card template for an article. Feature a prominent, auto-cropped hero image (1.91:1 aspect ratio), bold headline (max 50 chars), and subtle brand logo. Ensure text contrast for dark/light modes and legibility on mobile. Include a dynamic indicator for article type (e.g., 'New Feature' tag) that adjusts color.</description>
     </item>
     <item>
       <title>[AI Prompt Workflow] Anti-AI Generic Design Prompt</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202610300757-2</link>
       <guid isPermaLink="false">vault-202610300757-2</guid>
-      <pubDate>Fri, 30 Oct 2026 07:44:00 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:41:00 +0000</pubDate>
       <description>The market increasingly demands AI-generated content that feels bespoke and human-crafted, not generic. This workflow counters common AI aesthetic pitfalls, producing unique and authentic visual results that resonate deeply with discerning audiences and stand out from automated outputs. | Palette: #2C3E50 #E67E22 #BDC3C7 #7F8C8D | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
     </item>
     <item>
       <title>[Motion &amp; 3D] Seamless Smart Home Integration VFX</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202610300757-3</link>
       <guid isPermaLink="false">vault-202610300757-3</guid>
-      <pubDate>Fri, 30 Oct 2026 07:43:00 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 07:40:00 +0000</pubDate>
       <description>Homeowners seek advanced functionality without visual clutter, demanding elegant integration in their living spaces. This motion system leverages subtle VFX to highlight hidden smart features and dynamic mood lighting, showcasing luxury and thoughtful design in architectural walkthroughs and product demos. | Palette: #0A0A0A #4CAF50 #2196F3 #FFEB3B | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
     </item>
     <item>
       <title>[AI Prompt Workflow] AI UI: Brand Color Integration</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202610290754-1</link>
       <guid isPermaLink="false">vault-202610290754-1</guid>
-      <pubDate>Thu, 29 Oct 2026 07:39:00 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 07:36:00 +0000</pubDate>
       <description>The signals highlight that early brand color prompts stick, yet AI-built UIs often look generic. Integrating strong, consistent brand colors from the outset prevents blandness and establishes identity, improving recognition and user trust. | Fonts: Inter Bold + DM Sans Regular | Palette: #2C3E50 #E74C3C #ECF0F1 #3498DB | Prompt: Generate a clean, modern dashboard UI. Ensure the primary brand color is #3498DB, secondary is #E74C3C, and use #ECF0F1 for backgrounds. Integrate #2C3E50 for text. Focus on clear data visualization and intuitive navigation. Avoid generic gradients; prioritize flat design elements with subtle shadows for depth and professionalism.</description>
     </item>
     <item>
       <title>[Motion &amp; 3D] Kinetic Share Card System</title>
       <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202610290754-2</link>
       <guid isPermaLink="false">vault-202610290754-2</guid>
-      <pubDate>Thu, 29 Oct 2026 07:38:00 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 07:35:00 +0000</pubDate>
       <description>New DEV share cards demonstrate that a compelling visual asset significantly boosts content engagement. A kinetic share card system grabs attention in crowded feeds, increasing click-through rates and brand visibility by pre-communicating value and polish through subtle animation. | Palette: #5A2D8D #FFC107 #F0F0F0 #333333 | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
-    </item>
-    <item>
-      <title>[UI &amp; Layout] Delayed Reveal UX Pattern</title>
-      <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202610290754-3</link>
-      <guid isPermaLink="false">vault-202610290754-3</guid>
-      <pubDate>Thu, 29 Oct 2026 07:37:00 +0000</pubDate>
-      <description>The 'Sealed Wish Wall' concept highlights the power of delayed gratification in user contributions. This pattern performs by building anticipation and encouraging thoughtful input, leading to higher perceived value and engagement upon reveal, avoiding immediate content fatigue. | Palette: #1C2833 #F5B041 #AED6F1 #2ECC71 | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
-    </item>
-    <item>
-      <title>[AI Prompt Workflow] AI Visual Configurator Preview System</title>
-      <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202610280748-1</link>
-      <guid isPermaLink="false">vault-202610280748-1</guid>
-      <pubDate>Wed, 28 Oct 2026 07:30:00 +0000</pubDate>
-      <description>AI is now planning visual compositions before rendering, enabling rapid, multi-option previews for complex designs like vehicle wraps or AI video. This workflow reduces iteration time significantly by offering intelligent pre-visualizations that help users compare and refine concepts efficiently. | Fonts: Inter Display + Source Sans Pro | Palette: #1A1A1A #FFFFFF #6A6A6A #007BFF | Prompt: Design a dynamic visual configurator preview for a custom product. Generate five distinct, high-fidelity mockups showcasing material, color, and texture variations applied to a 3D model. Emphasize realistic lighting and environmental reflections. Include a clear UI overlay for comparison options. Focus on user clarity and aesthetic appeal.</description>
-    </item>
-    <item>
-      <title>[UI &amp; Layout] Agent-Driven UI Localization Workflow</title>
-      <link>https://sys-vault.github.io/design-prompt-vault/?id=vault-202610280748-2</link>
-      <guid isPermaLink="false">vault-202610280748-2</guid>
-      <pubDate>Wed, 28 Oct 2026 07:29:00 +0000</pubDate>
-      <description>AI agents are designing entire web layouts and UI components without direct editor interaction, streamlining initial design phases. This trend extends to automated localization testing, where AI can adapt and validate interface elements for various languages, drastically cutting development time and ensuring global consistency. | Palette: #000000 #F0F0F0 #4CAF50 #FFC107 | Unlock full Typography &amp; Production Prompt Spec in SYS//VAULT ($19).</description>
     </item>
   </channel>
 </rss>
