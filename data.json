@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611050850-1",
+    "date": "2026-11-05",
+    "title": "Adaptive Admin UI Theming System",
+    "category": "UI & Layout",
+    "trend_signal": "Customization of backend UIs is becoming a standard expectation, allowing designers to quickly brand and optimize complex interfaces. This visual flexibility enhances user adoption and reduces development overhead for bespoke styling.",
+    "typography_pairing": "Montserrat Bold + Inter Regular",
+    "color_palette": [
+      "#2C3E50",
+      "#ECF0F1",
+      "#3498DB",
+      "#E74C3C"
+    ],
+    "pro_prompt_system": "Design a modular admin dashboard theme. Focus on customizable elements: primary buttons, input fields, navigation, and data tables. Ensure scalable corner radii, adaptable spacing variables (8px increments), and an icon system compatible with Material Design. The theme must support light and dark modes, prioritizing accessibility and clear hierarchy across all components.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611050850-2",
+    "date": "2026-11-05",
+    "title": "Gaussian Splat 3D Scene Exports",
+    "category": "Motion & 3D",
+    "trend_signal": "Gaussian Splatting offers a novel approach to rendering complex 3D scenes with incredible detail and speed, moving beyond traditional mesh-based models. Its ability to create photorealistic, volumetric environments is critical for next-gen interactive experiences and virtual production.",
+    "typography_pairing": "Rajdhani SemiBold + Fira Sans Light",
+    "color_palette": [
+      "#4CAF50",
+      "#8BC34A",
+      "#FFEB3B",
+      "#2196F3"
+    ],
+    "pro_prompt_system": "Generate a 'digital garden' scene using Gaussian Splatting, featuring dense foliage, glowing flora, and intricate light refractions. Specify export formats: SPZ for interactive viewing, SOG for spatial audio integration, and PLY for mesh reconstruction. Emphasize volumetric depth, ambient occlusion, and subtle animated particles to enhance immersion and realism across all exports.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611050850-3",
+    "date": "2026-11-05",
+    "title": "Horror Animation Grading System",
+    "category": "Motion & 3D",
+    "trend_signal": "Crafting psychologically impactful horror visuals requires precise color grading beyond mere darkness, leveraging specific emotional triggers and contrasts. This systematic approach ensures animated shorts achieve genuine dread and tension, enhancing narrative depth and audience engagement.",
+    "typography_pairing": "Creepster Regular + PT Sans Narrow",
+    "color_palette": [
+      "#1A0000",
+      "#330000",
+      "#FF0000",
+      "#00FFFF"
+    ],
+    "pro_prompt_system": "Develop a horror color palette and grading guide for an animated short, focusing on psychological dread over gore. Define a base palette of desaturated, cool tones for environments, introduce warm, muted accents for tension, and specify a single, high-contrast shock color. Detail light source treatment (e.g., flickering fluorescents, deep shadows) and color temperature shifts to evoke unease, not just darkness.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611040826-1",
     "date": "2026-11-04",
     "title": "Lean Reference AI Visuals",
