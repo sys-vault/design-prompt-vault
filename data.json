@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611060850-1",
+    "date": "2026-11-06",
+    "title": "AI Layout Grid for Multi-Device UIs",
+    "category": "UI & Layout",
+    "trend_signal": "The rise of AI agents designing mobile-first apps highlights the need for adaptive layouts. This system leverages AI to generate responsive grid structures, minimizing manual arithmetic and ensuring consistent user experience across varied screen sizes.",
+    "typography_pairing": "Inter Display + IBM Plex Sans",
+    "color_palette": [
+      "#1E3A8A",
+      "#DBEAFE",
+      "#60A5FA",
+      "#1F2937"
+    ],
+    "pro_prompt_system": "Generate a responsive UI grid system for a data-heavy cinema booking app. Prioritize mobile-first, then tablet and desktop. Include specific breakpoints, column structures, and padding guidelines to ensure optimal readability and interaction across all common screen resolutions. Output as a detailed JSON layout schema.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611060850-2",
+    "date": "2026-11-06",
+    "title": "Authentic Healthtech Video Narrative",
+    "category": "Motion & 3D",
+    "trend_signal": "Healthtech products struggle with generic 'brochure-like' videos for cautious audiences. This system focuses on AI-assisted narrative development and motion design that builds trust through authentic, empathetic storytelling, moving beyond typical SaaS visuals to resonate with a sensitive market.",
+    "typography_pairing": "Poppins + Roboto Flex",
+    "color_palette": [
+      "#007BFF",
+      "#E6F3FF",
+      "#6C757D",
+      "#28A745"
+    ],
+    "pro_prompt_system": "Develop a 60-second animated explainer video concept for a new telehealth platform. Focus on building user trust and empathy, avoiding corporate clichés. Outline key scenes, motion styles (fluid, organic, non-skeuomorphic), and voiceover tone. Emphasize data privacy and user-centric care. Use a soft, human-centric aesthetic for character and UI elements.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611060850-3",
+    "date": "2026-11-06",
+    "title": "AI Legal Content Layouts & Review",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "Designing critical content like legal pages requires precision, mobile-first consideration, and speed. This AI workflow streamlines the creation of structured, legally-compliant layouts for varied devices, incorporating 'locked components' and facilitating rapid legal review by generating clear content models.",
+    "typography_pairing": "Merriweather + Source Sans Pro",
+    "color_palette": [
+      "#333333",
+      "#F5F5F5",
+      "#990000",
+      "#CCCCCC"
+    ],
+    "pro_prompt_system": "Architect a comprehensive content model and responsive UI design for a criminal defense firm's 'Charge Page'. Specify mobile-first layout, locked legal disclosure components, and dynamic content areas. Generate a production-ready design spec including typography, color usage, and a clear component hierarchy for developer handoff and legal team review. Ensure high readability under pressure.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611050850-1",
     "date": "2026-11-05",
     "title": "Adaptive Admin UI Theming System",
