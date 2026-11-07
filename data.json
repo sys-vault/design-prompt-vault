@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611070807-1",
+    "date": "2026-11-07",
+    "title": "AI-Powered Quick-Start Brand Kit",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The rise of AI tools for non-designers signifies a huge demand for automated, quality visual output. This pattern converts by lowering the barrier to entry for professional-looking brand assets, saving time and money for small businesses or individuals.",
+    "typography_pairing": "Outfit Bold + Inter Regular",
+    "color_palette": [
+      "#1E3A8A",
+      "#3B82F6",
+      "#60A5FA",
+      "#D1D5DB"
+    ],
+    "pro_prompt_system": "Generate a minimalist brand identity kit for a sustainable tech startup. Include a modern logomark concept, a clean sans-serif typeface suggestion for headlines, and a complementary body font. Also, provide a versatile 4-color palette using a primary deep blue, secondary sky blue, a neutral gray, and a subtle green accent. Focus on conveying trust, innovation, and environmental responsibility through the visual language.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611070807-2",
+    "date": "2026-11-07",
+    "title": "Conversational UI Flow Architect",
+    "category": "UI & Layout",
+    "trend_signal": "Prioritizing conversational flow before code prevents costly reworks, proving that dialogue-first design is a high-ROI strategy. This approach converts by delivering intuitive, user-centric experiences that reduce friction and increase user satisfaction in AI-powered applications.",
+    "typography_pairing": "Space Grotesk Bold + IBM Plex Mono Regular",
+    "color_palette": [
+      "#0B1225",
+      "#3F51B5",
+      "#E0E0E0",
+      "#9E9E9E"
+    ],
+    "pro_prompt_system": "Design a multi-modal conversational UI flow for a smart home assistant scheduling a complex task. Outline the user prompts, system responses, and potential error handling dialogues across voice and text interfaces. Incorporate visual cues for active listening and task confirmation. Emphasize clarity, efficiency, and a natural language interaction. Detail 3 key user journey branches.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611070807-3",
+    "date": "2026-11-07",
+    "title": "AI-Driven Dynamic Video Storyboards",
+    "category": "Motion & 3D",
+    "trend_signal": "The demand for AI video studio tools indicates a shift towards automated, scalable video content creation. This system converts by enabling rapid prototyping and visualization of complex narratives, significantly cutting down pre-production time and allowing for iterative creative exploration.",
+    "typography_pairing": "Monument Extended Bold + Roboto Mono Light",
+    "color_palette": [
+      "#2C3E50",
+      "#E74C3C",
+      "#2ECC71",
+      "#F39C12"
+    ],
+    "pro_prompt_system": "Generate a 15-second dynamic video storyboard for a luxury car commercial showcasing advanced AI features. Focus on sleek, cinematic camera movements, futuristic UI overlays, and dramatic lighting. Include key shot descriptions, transition types (e.g., seamless morph, quick cut), and emotional arc. Specify three distinct visual styles: 'Minimalist Tech', 'Dynamic Cityscape', 'Abstract Elegance'.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611060850-1",
     "date": "2026-11-06",
     "title": "AI Layout Grid for Multi-Device UIs",
