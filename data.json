@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611090856-1",
+    "date": "2026-11-09",
+    "title": "Dynamic Palette Extraction & Tailwind CSS",
+    "category": "UI & Layout",
+    "trend_signal": "Designers frequently receive unformatted image assets, making precise color replication challenging for front-end development. This system automates HEX code extraction from any image, ensuring pixel-perfect brand consistency and seamless integration into CSS or Tailwind palettes.",
+    "typography_pairing": "Inter + Fira Code",
+    "color_palette": [
+      "#1C1C1C",
+      "#F0F0F0",
+      "#4A90E2",
+      "#E85D04"
+    ],
+    "pro_prompt_system": "Analyze the provided screenshot of the proposed design. Extract the dominant 5-7 HEX codes, prioritizing brand accents, primary, and secondary UI colors. Format these as a Tailwind CSS `colors` object, including semantic names like `primary-blue`, `accent-orange`, `text-dark`, `bg-light`. Ensure the output is ready for direct `tailwind.config.js` integration, optimizing for developer handoff efficiency.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611090856-2",
+    "date": "2026-11-09",
+    "title": "AI-Powered Product Texture Preservation",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "E-commerce brands struggle to compress high-detail product images (like textiles) without losing critical texture information, impacting customer perception. This AI workflow optimizes image compression while intelligently preserving intricate weave patterns, boosting visual fidelity and loading speed.",
+    "typography_pairing": "General Sans + Lora",
+    "color_palette": [
+      "#4A4A4A",
+      "#F7F7F7",
+      "#B08968",
+      "#E6CCB2"
+    ],
+    "pro_prompt_system": "Process the raw high-resolution product image of a woven textile. Your goal is to compress the image to under 200KB for web use while prioritizing the preservation of fabric texture and weave details at 1x and 2x display resolutions. Apply intelligent sharpening to emphasize threads without introducing artifacts. Output as a WebP file, ensuring perceived quality matches uncompressed PNG. Maintain original color accuracy.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611090856-3",
+    "date": "2026-11-09",
+    "title": "Immersive VR UI Motion Design System",
+    "category": "Motion & 3D",
+    "trend_signal": "With the rise of VR platforms like Quest, traditional flat UI motion principles fall short in immersive environments. This system defines spatial motion behaviors for UI elements, creating intuitive and engaging user experiences that feel natural within a 3D space.",
+    "typography_pairing": "Axiforma + Poppins",
+    "color_palette": [
+      "#0D1B2A",
+      "#E0FBFC",
+      "#415A77",
+      "#778DA9"
+    ],
+    "pro_prompt_system": "Develop a motion design specification for a responsive 3D UI element (e.g., a button or panel) within a VR environment. Define its hover state (slight outward scale, subtle glow), click feedback (brief inward press, haptic pulse suggestion), and dismiss/transition animation (smooth fade-out with slight forward velocity). Specify easing curves (e.g., ease-out-quad) and duration (e.g., 250ms for hover, 150ms for click) for natural spatial interaction.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611070807-1",
     "date": "2026-11-07",
     "title": "AI-Powered Quick-Start Brand Kit",
