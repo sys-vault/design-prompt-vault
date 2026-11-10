@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611100903-1",
+    "date": "2026-11-10",
+    "title": "Anti-Gradient AI Page Protocol",
+    "category": "UI & Layout",
+    "trend_signal": "The ubiquity of indigo gradients and stock layouts in AI-generated UIs signals a critical need for prompt systems that enforce unique aesthetic constraints. This pattern performs poorly due to user fatigue and perceived lack of brand originality, hindering conversion.",
+    "typography_pairing": "Space Grotesk + IBM Plex Sans",
+    "color_palette": [
+      "#2E4057",
+      "#A74F3C",
+      "#EDE8D8",
+      "#4A7C59"
+    ],
+    "pro_prompt_system": "Generate a minimalist landing page UI for a sustainable tech product. Avoid all gradients. Focus on a flat, subtle color palette with high contrast typography and ample negative space. Implement an asymmetrical three-column content block. Emphasize crisp lines and a modern, approachable aesthetic. Exclude common AI-design clichés.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611100903-2",
+    "date": "20261110",
+    "title": "OpenDesign Local Style Engine",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The market is saturated with generic AI design tools, pushing users towards local, open-source solutions like OpenDesign for greater control and privacy. A custom style engine ensures unique brand expression, converting better by avoiding the bland 'AI look' found in subscription models.",
+    "typography_pairing": "Fraunces + Geist Sans",
+    "color_palette": [
+      "#1A1A1A",
+      "#C28C2C",
+      "#F5F5F5",
+      "#5C6F5A"
+    ],
+    "pro_prompt_system": "Architect a bespoke aesthetic profile for a local AI design agent. Define 'Brand DNA: Minimalist, Brutalist, Organic'. Establish primary visual grammar: high-contrast geometric forms, raw textures, and a limited, earthy color palette. Implement a constraint: 'No stock photography, generate abstract data visualizations only.' Train the model to reject smooth gradients and standard iconography, favoring bespoke SVG assets.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611100903-3",
+    "date": "2026-11-10",
+    "title": "Cross-Medium Brand Cohesion",
+    "category": "Typography & Brand",
+    "trend_signal": "The clash between print-trained staff and digital developers highlights a critical need for unified brand systems that translate seamlessly across mediums. Achieving professional AI-generated app designs demands a cohesive visual language that avoids common AI-design patterns, enhancing trust and perceived quality.",
+    "typography_pairing": "General Sans + GT America Mono",
+    "color_palette": [
+      "#0F1E2A",
+      "#6D93AC",
+      "#D6DDEC",
+      "#A4B8C1"
+    ],
+    "pro_prompt_system": "Develop a brand guideline prompt for a new B2B SaaS platform, ensuring cross-medium cohesion. Define core brand values: 'Reliability, Innovation, Clarity'. Specify a typography hierarchy that adapts from print collateral to responsive web UIs. Detail a motion language for micro-interactions: 'Subtle, purposeful transitions with cubic bezier easing, 200ms duration, no bounce or excessive flair.' Generate logo variations suitable for both high-resolution print and scalable vector web use.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611090856-1",
     "date": "2026-11-09",
     "title": "Dynamic Palette Extraction & Tailwind CSS",
