@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611110843-1",
+    "date": "2026-11-11",
+    "title": "Anti-Gradient AI Layout",
+    "category": "UI & Layout",
+    "trend_signal": "The industry is saturated with generic AI-generated interfaces, often featuring indigo gradients and predictable layouts. This system counters the 'AI-design patterns' by explicitly rejecting these clichés, ensuring a fresh, unique, and professional first impression that avoids design fatigue.",
+    "typography_pairing": "DM Sans + JetBrains Mono",
+    "color_palette": [
+      "#F8F0E3",
+      "#E8D8C2",
+      "#7A5C59",
+      "#2C2B2A"
+    ],
+    "pro_prompt_system": "Generate a clean, modern landing page UI for a SaaS product. Avoid any indigo, purple, or blue gradients. Prioritize asymmetrical layouts and a clear, defined grid. Use a neutral background with strong typographic hierarchy. Integrate subtle, non-iconic visual elements and minimalist CTA buttons. Focus on a sophisticated, unique aesthetic that breaks from common AI-generated patterns.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611110843-2",
+    "date": "2026-11-11",
+    "title": "OpenSource UI Refinement",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "With the rise of OpenDesign and local AI tools, designers seek more control and privacy, moving away from subscription models. This system leverages local model capabilities to infuse custom aesthetic rules, allowing for highly specific and non-generic UI outputs that reflect true brand taste, bypassing common 'AI-design patterns.'",
+    "typography_pairing": "Neue Haas Grotesk Display + IBM Plex Sans",
+    "color_palette": [
+      "#FFFFFF",
+      "#F0F2F5",
+      "#1A1A1A",
+      "#6C63FF"
+    ],
+    "pro_prompt_system": "Using a local OpenDesign agent, generate a responsive UI prototype for a data analytics dashboard. Implement a strict constraint against circular icons or card-based layouts. Focus on a flat, almost brutalist design with sharp edges and clear information architecture. Integrate a custom color variable for interactive elements, ensuring all other elements are monochrome. Prioritize readability and data density over decorative flair.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611110843-3",
+    "date": "2026-11-11",
+    "title": "Human-Centric Micro-Motion",
+    "category": "Motion & 3D",
+    "trend_signal": "Beyond static design, AI-generated interfaces often lack the nuanced micro-interactions that convey professionalism and brand personality. This system focuses on crafting subtle, intentional motion cues and 3D elements that elevate the user experience, moving beyond boilerplate animations and contributing significantly to an app's perceived quality.",
+    "typography_pairing": "Gilroy + SF Pro Text",
+    "color_palette": [
+      "#E6E6FA",
+      "#A8A2F0",
+      "#6A67CC",
+      "#3A377D"
+    ],
+    "pro_prompt_system": "Design a series of micro-interactions for a mobile app onboarding flow. Focus on subtle, elastic animations for button presses and content transitions. Incorporate a gentle, spherical 3D element that rotates slowly in the background of the hero section, responding subtly to scroll. Ensure all motion is under 300ms, feels tactile, and avoids generic 'slide-in' or 'fade-up' effects, aiming for a premium, crafted feel.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611100903-1",
     "date": "2026-11-10",
     "title": "Anti-Gradient AI Page Protocol",
