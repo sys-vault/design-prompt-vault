@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611120904-1",
+    "date": "2026-11-12",
+    "title": "AI Concept Art with Text Accuracy",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "Generic content headers reduce engagement. New AI models reliably generate conceptual imagery that draws users in, while simultaneously allowing for *exact* text overlays, solving the long-standing issue of garbled AI lettering. This combination offers unique, high-converting visuals for brand communication.",
+    "typography_pairing": "Outfit Display + Inter",
+    "color_palette": [
+      "#2C3E50",
+      "#ECF0F1",
+      "#3498DB",
+      "#E74C3C"
+    ],
+    "pro_prompt_system": "Generate a conceptual, abstract image for a blog header about \"AI Ethics in 2027\". The image should visually represent balance and future uncertainty, avoiding literal robots. Integrate the exact text \"AI Ethics: The Next Frontier\" as a clean, legible element within the composition, not as a texture. Ensure high visual impact and subtle motion capability.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611120904-2",
+    "date": "2026-11-12",
+    "title": "Agentic UI Generation via DESIGN.md",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The bottleneck of manual UI development is being eliminated by AI coding agents. By providing a linted `DESIGN.md` with YAML front matter and clear skill definitions, agents can autonomously generate complex UI components, ensuring design system compliance and significantly accelerating development cycles from design concept to functional code.",
+    "typography_pairing": "JetBrains Mono + Plus Jakarta Sans",
+    "color_palette": [
+      "#1A1A2E",
+      "#E0FFFF",
+      "#6C5B7B",
+      "#F67280"
+    ],
+    "pro_prompt_system": "Act as a UI coding agent. Read the provided DESIGN.md and SKILL.md. Generate a React component for a secure user dashboard. Incorporate semantic icons (from Feather Icons library) for navigation and status indicators, replacing traditional text labels or dividers. Prioritize accessibility and responsive design, adhering strictly to the specified color palette and typography in DESIGN.md.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611120904-3",
+    "date": "2026-11-12",
+    "title": "Subtle Semantic Presence Indicators",
+    "category": "UI & Layout",
+    "trend_signal": "Reducing UI clutter and cognitive load is paramount in complex dashboards and ambient monitoring systems. Semantic icons, coupled with subtle motion or state changes, offer an efficient way to convey critical status or presence without overwhelming the user, performing better than verbose text or generic indicators.",
+    "typography_pairing": "Hanken Grotesk + Fira Sans",
+    "color_palette": [
+      "#36454F",
+      "#DCDCDC",
+      "#4CAF50",
+      "#FFC107"
+    ],
+    "pro_prompt_system": "Design an ambient presence indicator system for a smart home dashboard. Replace traditional dot dividers with a subtle semantic icon for 'Occupancy' (e.g., a simplified human silhouette). The icon should subtly pulse green when 'Present' via Wi-Fi signal, fade to grey when 'Away', and show a gentle orange flicker for 'Unknown State'. Ensure smooth, non-distracting motion transitions.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611110843-1",
     "date": "2026-11-11",
     "title": "Anti-Gradient AI Layout",
