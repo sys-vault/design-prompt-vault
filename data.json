@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611140826-1",
+    "date": "2026-11-14",
+    "title": "Adaptive Interactive UI Elements",
+    "category": "UI & Layout",
+    "trend_signal": "Users expect UI elements to respond dynamically, not just statically. Incorporating subtle animations like stretchy toggles and ambient-aware contrast ensures readability and makes interfaces feel alive and genuinely user-centric, performing optimally in diverse real-world conditions.",
+    "typography_pairing": "Inter Regular + IBM Plex Mono",
+    "color_palette": [
+      "#1A1A2E",
+      "#E94560",
+      "#F7F7F7",
+      "#5B5B66"
+    ],
+    "pro_prompt_system": "Design a responsive toggle switch component for a financial app. Ensure it has a subtle 'stretchy' knob animation on toggle, adapts track color for accessibility in light/dark mode, and maintains an ambient contrast ratio of 7:1 minimum for both states, feeling fluid and secure.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611140826-2",
+    "date": "2026-11-14",
+    "title": "Unified Design Token Architecture",
+    "category": "UI & Layout",
+    "trend_signal": "Leveraging design tokens (Figma variables, CSS custom properties) is critical for scaling consistency across platforms, modes, and embeds. This eliminates forgotten elements and ensures a cohesive brand experience from a single source of truth, streamlining design-to-dev handoff.",
+    "typography_pairing": "DM Sans Bold + Fira Code Light",
+    "color_palette": [
+      "#2C3E50",
+      "#ECF0F1",
+      "#3498DB",
+      "#95A5A6"
+    ],
+    "pro_prompt_system": "Generate a comprehensive design token structure in JSON for an e-commerce platform, including semantic names for color (light/dark values), typography (display, body, mono), spacing, and border-radius. Ensure direct compatibility for import into Figma variables and CSS custom properties for a unified system.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611140826-3",
+    "date": "2026-11-14",
+    "title": "Responsive Button Motion Design",
+    "category": "Motion & 3D",
+    "trend_signal": "Strategic button animations (fill sweep, lift, glow) provide immediate and satisfying feedback without being distracting. Proper timing and easing make interactions feel responsive and intentional, significantly enhancing perceived quality and user engagement, not just visual flair.",
+    "typography_pairing": "Poppins SemiBold + Source Sans Pro Regular",
+    "color_palette": [
+      "#0F4C75",
+      "#BBE1FA",
+      "#3282B8",
+      "#1B262C"
+    ],
+    "pro_prompt_system": "Create motion specs for a primary call-to-action button hover state. Implement a subtle 'fill sweep' animation from left to right, a slight 'lift' on the Y-axis (2px), and a soft outer 'glow' (opacity 0 to 0.5). Ensure cubic-bezier easing for a smooth, responsive feel over 0.2s.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611130858-1",
     "date": "2026-11-13",
     "title": "Adaptive Interactive Elements",
