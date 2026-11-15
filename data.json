@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611150842-1",
+    "date": "2026-11-15",
+    "title": "Stretchy Toggle Interaction",
+    "category": "Motion & 3D",
+    "trend_signal": "Users expect interactive elements to feel alive and responsive. This pattern uses subtle elasticity and clear state changes to communicate interaction intent, reducing cognitive load and enhancing delight, while ensuring accessibility with satisfying feedback.",
+    "typography_pairing": "Inter SemiBold + Fira Code Regular",
+    "color_palette": [
+      "#222222",
+      "#F0F0F0",
+      "#5C6BC0",
+      "#E0E0E0"
+    ],
+    "pro_prompt_system": "Generate a CSS-driven accessible toggle switch animation. The knob should stretch horizontally on activation, then slide smoothly. Track color shifts subtly from #E0E0E0 (off) to #5C6BC0 (on). Ensure ARIA attributes are correctly applied for screen readers. Prioritize fluid easing and 200ms duration for responsiveness.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611150842-2",
+    "date": "2026-11-15",
+    "title": "Ambient Contrast Adaptive Kit",
+    "category": "UI & Layout",
+    "trend_signal": "Standard contrast tests fail in real-world bright environments, making displays unreadable. This kit leverages dynamic design tokens to adjust component colors based on estimated ambient light conditions, ensuring legibility and usability across varying display luminosities and outdoor settings.",
+    "typography_pairing": "IBM Plex Sans Medium + Source Sans Pro Regular",
+    "color_palette": [
+      "#0A0A0A",
+      "#FFFFFF",
+      "#FFD700",
+      "#1E90FF"
+    ],
+    "pro_prompt_system": "Design a Figma variable collection for a web kiosk with light/dark modes and an 'Ambient-Bright' token set. Create a primary button that uses `var(--btn-bg)` and `var(--btn-text)`. For 'Ambient-Bright', set `var(--btn-bg)` to `#1E90FF` and `var(--btn-text)` to `#0A0A0A`, adjusting for extreme glare with 1.4x luminance contrast compared to dark mode. Define CSS custom properties reflecting these variables.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611150842-3",
+    "date": "2026-11-15",
+    "title": "Unified Embed Design Tokens",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "Often, embedded content breaks the visual consistency of a well-designed site, degrading brand perception. This workflow ensures all external content, like video players or forms, inherits the site's core design tokens for typography, spacing, and color, maintaining a seamless, cohesive user experience.",
+    "typography_pairing": "Outfit Bold + Lato Regular",
+    "color_palette": [
+      "#1C1C1C",
+      "#EDEDED",
+      "#D44000",
+      "#6A5ACD"
+    ],
+    "pro_prompt_system": "Architect an AI prompt to generate design tokens (Figma variables & CSS custom properties) for a web platform. Include specific token categories for `embed-spacing`, `embed-border-radius`, and `embed-font-stack`. The system must enforce that all embedded third-party components automatically adopt these tokens for a unified visual language, ensuring no 'forgotten' inconsistencies. Provide light and dark mode values for each embed token.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611140826-1",
     "date": "2026-11-14",
     "title": "Adaptive Interactive UI Elements",
