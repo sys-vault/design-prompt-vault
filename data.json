@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611160852-1",
+    "date": "2026-11-16",
+    "title": "AI Character Consistency Engine",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "Subscription fatigue for simple design assets is high, pushing creators towards cost-effective AI. This workflow leverages AI to generate consistent, personalized character assets directly, saving money and ensuring visual fidelity across multiple iterations and poses.",
+    "typography_pairing": "Inter (Display) + Fira Code (Body/Mono)",
+    "color_palette": [
+      "#1A1A2E",
+      "#E94560",
+      "#533483",
+      "#0F3460"
+    ],
+    "pro_prompt_system": "Generate a consistent character reference sheet for 'Elara, a futuristic hacker with neon blue hair and cybernetic arm.' Focus on three poses: full body (neutral), action pose (typing on holographic interface), and expressive close-up (determined smirk). Maintain art style: 'clean line art, cel-shaded, vibrant neon accents.' Ensure consistent facial features, clothing details, and cybernetic arm design across all outputs.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611160852-2",
+    "date": "2026-11-16",
+    "title": "Honest Adaptive Color Blueprint",
+    "category": "Typography & Brand",
+    "trend_signal": "The industry is moving past 'closest match' claims to honest color conversion. This blueprint designs adaptive brand palettes that anticipate and gracefully manage digital-to-print color shifts, ensuring integrity while transparently communicating fidelity limitations across mediums.",
+    "typography_pairing": "Satoshi (Display) + Space Mono (Body/Mono)",
+    "color_palette": [
+      "#2C3E50",
+      "#ECF0F1",
+      "#95A5A6",
+      "#3498DB"
+    ],
+    "pro_prompt_system": "Develop a brand color system for 'Arcane Labs,' focusing on digital-first primary (#3498DB) and secondary (#ECF0F1). Define a 'Print Conversion Matrix' detailing HEX to CMYK (with expected delta-E deviation) and closest PANTONE match, explicitly noting potential shifts. Include a 'Web Accessibility Palette' ensuring AA compliance for text and UI elements. Specify fallbacks for display limitations.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611160852-3",
+    "date": "2026-11-16",
+    "title": "Deconstructed Data-First UI Pattern",
+    "category": "UI & Layout",
+    "trend_signal": "Traditional fixed UIs often miss the mark for diverse user needs, causing low adoption. This pattern deconstructs common UI elements, treating them as flexible data visualizations rather than rigid structures, enabling highly adaptive interfaces tailored for specific user workflows and contexts.",
+    "typography_pairing": "DM Sans (Display) + IBM Plex Mono (Body/Mono)",
+    "color_palette": [
+      "#1A1B27",
+      "#F0F0F0",
+      "#4CAF50",
+      "#FFC107"
+    ],
+    "pro_prompt_system": "Design a 'Project Timeline Dashboard' where the calendar is a dynamic data structure, not a fixed UI grid. Spec: display project phases (data points) as draggable, resizable blocks. Allow users to switch between 'linear sprint view,' 'dependency graph,' and 'resource allocation heatmap.' Prioritize data filtering and custom grouping, enabling users to build their preferred timeline visualization from raw project data, minimizing pre-defined UI constraints.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611150842-1",
     "date": "2026-11-15",
     "title": "Stretchy Toggle Interaction",
