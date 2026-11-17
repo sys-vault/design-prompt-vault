@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611170958-1",
+    "date": "2026-11-17",
+    "title": "Chat UI Realism Engine",
+    "category": "UI & Layout",
+    "trend_signal": "Directly addresses the 'fake chat mockup' problem by focusing on micro-geometry and contextual elements like bubble radii, tails, and status indicators. This pattern dramatically increases user trust and engagement by making digital conversations feel authentic, preventing the 'sticker' effect.",
+    "typography_pairing": "SF Pro Display + SF Mono",
+    "color_palette": [
+      "#2C2C2E",
+      "#3A3A3C",
+      "#0A84FF",
+      "#AEAEB2"
+    ],
+    "pro_prompt_system": "Generate a hyper-realistic dark mode chat UI for a customer support interaction. Focus on subtle bubble radii variations, message grouping, seen receipts, and a dynamic status bar. Use a soft, professional palette with muted blues and grays, ensuring geometric details mimic real-world messaging apps. Output as a detailed screen spec.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611170958-2",
+    "date": "2026-11-17",
+    "title": "AI App Token System Architect",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The industry is moving from AI-generated screens to AI-generated design systems that include explicit design tokens, streamlining developer handoff. This workflow converts by providing a complete, consistent foundation, eliminating ambiguity and accelerating development cycles for app and web projects.",
+    "typography_pairing": "Figtree Bold + JetBrains Mono",
+    "color_palette": [
+      "#1A1A2E",
+      "#E0E0E0",
+      "#6EC6FF",
+      "#FFD700"
+    ],
+    "pro_prompt_system": "Design a complete app screen for a data analytics dashboard, including a distinct loading state and an empty state. Crucially, output a structured JSON list of all associated design tokens (colors, typography, spacing, border-radius) used, alongside a visual representation. Emphasize semantic naming for tokens and a modern, clean aesthetic.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611170958-3",
+    "date": "2026-11-17",
+    "title": "Print-Ready Asset & LP Generator",
+    "category": "Typography & Brand",
+    "trend_signal": "Digital products and print-on-demand demand high-resolution, correctly formatted assets, often rejected for metadata or DPI issues. This pattern performs by generating versatile, print-optimized visuals that meet technical requirements while also offering easy variations for leadership review, ensuring rapid approval and market readiness.",
+    "typography_pairing": "Outfit Regular + Open Sans",
+    "color_palette": [
+      "#3D5B59",
+      "#EAE0D5",
+      "#A2B29F",
+      "#C89F9C"
+    ],
+    "pro_prompt_system": "Create three variations of a minimalist e-commerce landing page hero section promoting a 'Sustainable Tech Gadget.' Each variation should subtly differ in layout and primary call-to-action placement. For each, generate the hero image at 300 DPI with embedded metadata for 'Sustainable Tech, Eco-Friendly, Modern Design.' Provide a color palette based on natural, muted tones.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611160852-1",
     "date": "2026-11-16",
     "title": "AI Character Consistency Engine",
