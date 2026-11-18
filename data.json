@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611180936-1",
+    "date": "2026-11-18",
+    "title": "Hyper-Realistic Chat UI Geometry",
+    "category": "UI & Layout",
+    "trend_signal": "The market demands mockups indistinguishable from live apps. Subtle geometry like bubble curvature, tail placement, and thoughtful dark mode states are crucial for authenticity, transforming static designs into believable user interactions and boosting conversion.",
+    "typography_pairing": "Inter Display + SF Pro Text",
+    "color_palette": [
+      "#0A84FF",
+      "#E5E5EA",
+      "#1C1C1E",
+      "#FFFFFF"
+    ],
+    "pro_prompt_system": "Generate a chat UI mockup for a mobile app. Include diverse bubble radii, nuanced tail geometries for sender/receiver, and dynamic grouping. Specify light and dark mode states, featuring realistic status bars, read receipts, and subtle background textures to ensure maximum realism and user immersion.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611180936-2",
+    "date": "202611-18",
+    "title": "AI-to-Dev Design Token Sync",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "AI-generated app screens are powerful, but developer adoption hinges on integrated design tokens. This workflow ensures AI outputs are directly consumable, accelerating development cycles and maintaining brand consistency across platforms by embedding system-level design attributes.",
+    "typography_pairing": "IBM Plex Sans + JetBrains Mono",
+    "color_palette": [
+      "#007AFF",
+      "#F5F5F7",
+      "#17171A",
+      "#6C757D"
+    ],
+    "pro_prompt_system": "Design an AI-powered app screen (e.g., dashboard, settings). Crucially, output not only the visual screen but also an accompanying JSON or YAML file containing all generated design tokens (colors, typography scales, spacing, radii). Ensure tokens are semantic and ready for immediate developer handoff, bridging design intent with build-ready specifications.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611180936-3",
+    "date": "2026-11-18",
+    "title": "Seamless Pull-to-Refresh Motion",
+    "category": "Motion & 3D",
+    "trend_signal": "Abrupt screen disappearances during data refresh erode user trust and perceived app stability. Implementing sophisticated pull-down animations with clear loading states and graceful content transitions signals reliability, enhances user experience, and reduces abandonment rates.",
+    "typography_pairing": "Outfit + Roboto Flex",
+    "color_palette": [
+      "#FF3B30",
+      "#34C759",
+      "#8E8E93",
+      "#F2F2F7"
+    ],
+    "pro_prompt_system": "Create motion specifications for a 'pull-to-refresh' interaction on a mobile list view. Detail the initial pull elasticity, the loading indicator animation (e.g., spinner, progress bar), and the smooth transition of old content fading out as new content gracefully slides or scales in. Emphasize a feeling of fluidity and responsiveness, avoiding any 'flicker' or full screen disappearance. Provide keyframe timings and easing curves.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611170958-1",
     "date": "2026-11-17",
     "title": "Chat UI Realism Engine",
