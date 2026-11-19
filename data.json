@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611190944-1",
+    "date": "2026-11-19",
+    "title": "Authentic Chat UI Blueprint",
+    "category": "UI & Layout",
+    "trend_signal": "People instantly spot fake chat UIs. Mastering nuanced details like bubble geometry, tail placement, and dark mode consistency builds immediate trust and perceived professionalism, making your mockups indistinguishable from live apps. This translates to higher engagement and design credibility.",
+    "typography_pairing": "Inter (Display) + SF Mono (Body/Mono)",
+    "color_palette": [
+      "#0A84FF",
+      "#E5E5EA",
+      "#3C3C43",
+      "#F2F2F7"
+    ],
+    "pro_prompt_system": "Design a modern chat UI for a mobile app. Ensure realistic bubble radii, subtle tail geometry, and thoughtful message grouping. Include a status bar, read receipts, and seamless dark mode adaptation. Focus on minute details that convey a genuine, live conversation flow, not static elements.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611190944-2",
+    "date": "2026-11-19",
+    "title": "AI Design Token System Architect",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "AI-generated UI screens often lack systematic underlying design tokens, creating developer handoff nightmares. Integrating token generation from the start ensures precise, developer-ready output, reduces friction, and maintains brand consistency across complex applications. This approach significantly accelerates dev cycles and adoption.",
+    "typography_pairing": "Geist Sans (Display) + JetBrains Mono (Body/Mono)",
+    "color_palette": [
+      "#1A1A1A",
+      "#6C5CE7",
+      "#F0F0F0",
+      "#8E8E93"
+    ],
+    "pro_prompt_system": "Generate a responsive mobile app screen for a productivity tool. Alongside the visual design, output a JSON object containing core design tokens: color palette, typography scales, spacing units, and border radii. Ensure tokens align perfectly with the UI elements rendered for developer implementation.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611190944-3",
+    "date": "2026-11-19",
+    "title": "Print-Ready Digital Asset Architect",
+    "category": "Typography & Brand",
+    "trend_signal": "Digital assets often fail quality checks due to incorrect DPI metadata, leading to rejection on platforms like Etsy or poor print quality for DTF transfers. Generating assets with correct, high-resolution specifications and embedded metadata from the outset ensures marketplace compliance and superior print results, boosting sales and reducing revisions.",
+    "typography_pairing": "Montserrat (Display) + Open Sans (Body/Mono)",
+    "color_palette": [
+      "#FF5733",
+      "#33FF57",
+      "#3357FF",
+      "#E0E0E0"
+    ],
+    "pro_prompt_system": "Create a vector-based digital art piece suitable for DTF apparel printing. Output as a 300 DPI PNG with transparent background, sized for a 12x16 inch print. Embed accurate metadata for print-readiness and marketplace compliance. Focus on bold lines, clean separations, and vibrant, print-friendly colors.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611180936-1",
     "date": "2026-11-18",
     "title": "Hyper-Realistic Chat UI Geometry",
