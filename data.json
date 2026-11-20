@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611200930-1",
+    "date": "2026-11-20",
+    "title": "Vibrant Gradient Fix: Perceptual Blends",
+    "category": "UI & Layout",
+    "trend_signal": "Traditional RGB blending interpolates colors linearly, often creating muddy mid-points due to human perception of lightness. Adopting perceptual color spaces like LCH ensures smooth, visually harmonious transitions, significantly enhancing visual appeal in UI elements.",
+    "typography_pairing": "Inter Display + Fira Sans",
+    "color_palette": [
+      "#1A2CFF",
+      "#FFD700",
+      "#FF4500",
+      "#00FF7F"
+    ],
+    "pro_prompt_system": "Design a UI card with a vibrant background gradient from #FFD700 to #1A2CFF. Ensure the gradient uses LCH color interpolation for a perceptually smooth transition, avoiding any muddy mid-tones. Include a subtle radial texture overlay at 15% opacity. Display a clear call-to-action button centered.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611200930-2",
+    "date": "2026-11-20",
+    "title": "AI Brand Guardian: Tokenized Output",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "Leveraging design tokens as a structured input for LLMs ensures generated content strictly adheres to established brand guidelines. This workflow drastically reduces manual correction time and guarantees consistent visual and textual brand identity across all AI-produced assets, from UI components to marketing copy.",
+    "typography_pairing": "Gilroy Bold + Open Sans",
+    "color_palette": [
+      "#007BFF",
+      "#28A745",
+      "#6C757D",
+      "#F8F9FA"
+    ],
+    "pro_prompt_system": "As an AI Brand Architect, utilize the provided JSON design tokens for our corporate identity (colors, fonts, spacing, icons) to generate a three-screen mobile app onboarding flow. Prioritize consistency in all elements. Explain your creative choices based on token application for each screen's layout, microcopy, and button styling, ensuring strict brand adherence.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611200930-3",
+    "date": "2026-11-20",
+    "title": "Adaptive Onboarding: Guided Discovery",
+    "category": "UI & Layout",
+    "trend_signal": "Effective onboarding guides users progressively, revealing functionality and permissions contextually rather than upfront. This 'show the path' approach enhances user understanding and reduces friction, leading to higher engagement and feature adoption by preventing early overwhelm and fostering a sense of control.",
+    "typography_pairing": "Outfit Semibold + Lato",
+    "color_palette": [
+      "#6A5ACD",
+      "#87CEEB",
+      "#ADD8E6",
+      "#F0F8FF"
+    ],
+    "pro_prompt_system": "Design a mobile app onboarding sequence (3 screens) for a task management app, focusing on progressive hints. Screen 1: Welcome & Value Proposition. Screen 2: Permission Request (Notifications, with clear rationale). Screen 3: First-Run State with a single, guided task prompt. Ensure clear microcopy and a \"Skip Tour\" option. Detail screen states and transition animations.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611190944-1",
     "date": "2026-11-19",
     "title": "Authentic Chat UI Blueprint",
