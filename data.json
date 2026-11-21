@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611210903-1",
+    "date": "2026-11-21",
+    "title": "Perceptually-Smooth Gradient Fix",
+    "category": "UI & Layout",
+    "trend_signal": "The signal highlights a common visual flaw in digital gradients, where direct color interpolation creates desaturated 'muddy' midpoints. Adopting perceptually uniform color spaces (like Oklab) ensures gradients maintain vibrancy and smooth transitions, improving overall aesthetic quality and perceived professionalism in UI.",
+    "typography_pairing": "Neue Haas Grotesk Display + Inter",
+    "color_palette": [
+      "#007BFF",
+      "#FFD700",
+      "#FF6347",
+      "#20B2AA"
+    ],
+    "pro_prompt_system": "When designing UI elements requiring smooth color transitions, specify `color-interpolation: linearRGB` for standard CSS, but strongly recommend implementing gradients within a perceptually uniform color space like Oklab via design tools or post-processing. This ensures vibrant, non-muddy transitions, enhancing visual sophistication and user experience. Prioritize gradient consistency across light/dark modes.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611210903-2",
+    "date": "2026-11-21",
+    "title": "AI Brand Token Extraction System",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The market is demanding on-brand AI output for design tasks, moving beyond generic aesthetics. Extracting design tokens (colors, fonts, shadows, icons) from existing digital assets and feeding them to LLMs ensures generated content aligns perfectly with established brand guidelines, drastically reducing post-generation rework and ensuring consistent brand identity.",
+    "typography_pairing": "IBM Plex Sans + JetBrains Mono",
+    "color_palette": [
+      "#4A90E2",
+      "#F5A623",
+      "#7ED321",
+      "#BD10E0"
+    ],
+    "pro_prompt_system": "As an AI design assistant, first extract and parse all design tokens from the provided `[Website URL]` or `[Design System JSON]`, including primary/secondary colors, gradients (with specified color spaces), font families, shadow values, and icon sets. Store these as contextual variables. Then, generate `[Target Design Element]` using ONLY these brand tokens, ensuring strict adherence to the extracted visual language for absolute brand consistency across all outputs. Explain any deviations.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611210903-3",
+    "date": "2026-11-21",
+    "title": "Progressive UX Path Disclosure",
+    "category": "UI & Layout",
+    "trend_signal": "Users increasingly expect interactive systems to not just provide answers but to guide them through the journey or solution process. Implementing progressive disclosure for hints or problem-solving paths reduces cognitive load, fosters deeper engagement, and transforms complex interactions into rewarding, learning experiences, enhancing user retention.",
+    "typography_pairing": "Outfit + Fira Sans",
+    "color_palette": [
+      "#1ABC9C",
+      "#3498DB",
+      "#F39C12",
+      "#ECF0F1"
+    ],
+    "pro_prompt_system": "Design a progressive UX path disclosure system for a `[Puzzle/Solver Application]` that reveals hints or solution steps incrementally. Each step must be activated by user intent, visually distinct, and non-spoiling until engaged. Utilize subtle motion graphics (e.g., expanding tooltips, fading overlays) to guide attention without distraction. Ensure the system is adaptable for mobile onboarding flows, clearly delineating permissions and first-run states within the guided experience.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611200930-1",
     "date": "2026-11-20",
     "title": "Vibrant Gradient Fix: Perceptual Blends",
