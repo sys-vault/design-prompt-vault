@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611220911-1",
+    "date": "2026-11-22",
+    "title": "AI Brand Token Guides",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The convergence of AI and design token systems allows for automated, on-brand content generation. This workflow performs by ensuring visual consistency across all AI-generated outputs, preventing off-brand deviations and accelerating creative production.",
+    "typography_pairing": "Lato + IBM Plex Mono",
+    "color_palette": [
+      "#2E3A8C",
+      "#7B61FF",
+      "#D9D9D9",
+      "#F0F0F0"
+    ],
+    "pro_prompt_system": "Act as an AI Brand Architect. Your task is to extract core design tokens (colors, gradients, fonts, shadows, icons) from the provided brand guidelines. Then, generate 3 progressive UI hint suggestions for a new mobile feature, ensuring each suggestion strictly adheres to the extracted tokens and progressively guides the user without spoiling the solution. Output JSON.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611220911-2",
+    "date": "2026-11-22",
+    "title": "Perceptual Gradient Synthesis",
+    "category": "Motion & 3D",
+    "trend_signal": "Addressing the common 'muddy middle' in digital gradients is crucial for high-fidelity visuals. Utilizing perceptually uniform color spaces in motion design prevents dull transitions, leading to smoother, more vibrant animations that significantly enhance perceived quality and user engagement.",
+    "typography_pairing": "Inter + Space Mono",
+    "color_palette": [
+      "#6A0DAD",
+      "#A7FF00",
+      "#FF5733",
+      "#00BFFF"
+    ],
+    "pro_prompt_system": "Generate a 10-second motion graphic sequence depicting a seamless, perceptually uniform gradient transition from deep violet (#6A0DAD) to bright lime green (#A7FF00). Specify keyframes for color interpolation using a perceptually uniform color space (e.g., LCH or OKLCH equivalent) to avoid muddy mid-tones. Output detailed animation parameters for After Effects or Cinema 4D.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611220911-3",
+    "date": "2026-11-22",
+    "title": "AI Onboarding Flow Architect",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "Leveraging AI to design comprehensive mobile onboarding flows, driven by extracted brand tokens, ensures both visual consistency and optimal user guidance. This approach rapidly prototypes adaptive authentication, permission, and first-run states, significantly improving conversion and retention metrics.",
+    "typography_pairing": "Poppins + Fira Code",
+    "color_palette": [
+      "#66BB6A",
+      "#A5D6A7",
+      "#FFD54F",
+      "#90CAF9"
+    ],
+    "pro_prompt_system": "As an AI Prompt Architect, design a mobile app onboarding system for a new social wellness app. Extract brand tokens from provided guidelines. Generate a three-screen flow focusing on progressive permission requests and seamless authentication. Include copy, icon suggestions, and a dynamic 'path-shown' hint system for first-run state. Output as a detailed design brief.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611210903-1",
     "date": "2026-11-21",
     "title": "Perceptually-Smooth Gradient Fix",
