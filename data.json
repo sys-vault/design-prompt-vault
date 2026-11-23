@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611231007-1",
+    "date": "2026-11-23",
+    "title": "High-Convert App Landing Structure",
+    "category": "UI & Layout",
+    "trend_signal": "Effective landing pages are built on clarity and trust, converting visitors into users fast. The top performers distill their value proposition into scannable sections, directly addressing user needs with robust social proof.",
+    "typography_pairing": "Inter Display + Source Sans Pro",
+    "color_palette": [
+      "#F5F5F7",
+      "#1D1D1F",
+      "#007AFF",
+      "#6B7280"
+    ],
+    "pro_prompt_system": "Generate a wireframe for a Mac app landing page. Feature a hero section with a clear value proposition, screenshot showcase, feature list with icons, user testimonials, and a prominent call-to-action. Emphasize clean typography and balanced whitespace for optimal readability and conversion.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611231007-2",
+    "date": "2026-11-23",
+    "title": "AI-Secure Transaction UI Flow",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "AI is now critical for generating highly specific and secure UI elements for financial transactions. This workflow ensures design integrity while rapidly prototyping user flows that build confidence and mitigate processing anxiety.",
+    "typography_pairing": "IBM Plex Sans + Fira Code",
+    "color_palette": [
+      "#FFFFFF",
+      "#0A0A0A",
+      "#4CAF50",
+      "#FF9800"
+    ],
+    "pro_prompt_system": "Design a secure payment confirmation screen for a mobile banking app. Include a transaction summary, a subtle progress indicator, and a clear success message with an option to view details. Ensure the design communicates trustworthiness and efficiency. Use clean lines, minimal icons, and a reassuring color palette to reduce user anxiety during critical financial steps.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611231007-3",
+    "date": "2026-11-23",
+    "title": "Retro-Futurist Button Hover Motion",
+    "category": "Motion & 3D",
+    "trend_signal": "The nostalgia for compact, pixel-art web elements is merging with modern interaction design. Subtle hover animations on these 'neo-pixel' buttons create delightful micro-interactions, enhancing user engagement without visual clutter.",
+    "typography_pairing": "Press Start 2P + Work Sans",
+    "color_palette": [
+      "#1A1A2E",
+      "#E94560",
+      "#FFC72C",
+      "#00BCD4"
+    ],
+    "pro_prompt_system": "Create a motion design spec for a 'recommendation' button (88x31px style). On hover, animate a subtle 3D 'pop' effect, expanding slightly and displaying a pixelated icon. The button should then return to its original state on mouse out. Ensure smooth easing and a playful, retro-futuristic feel, maintaining a responsive frame rate.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611220911-1",
     "date": "2026-11-22",
     "title": "AI Brand Token Guides",
