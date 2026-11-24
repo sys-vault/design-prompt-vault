@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611241153-1",
+    "date": "2026-11-24",
+    "title": "AI Layout Deconstruct & Rebuild Brief",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The drive for AI to accurately interpret and rebuild existing web layouts is critical for rapid prototyping and iteration. This system leverages precise input extraction (layout, colors, fonts, interactions) to generate rebuild briefs, minimizing AI's \"guessing\" phase and boosting design efficiency.",
+    "typography_pairing": "Montserrat Bold + IBM Plex Mono",
+    "color_palette": [
+      "#2C3E50",
+      "#ECF0F1",
+      "#3498DB",
+      "#E74C3C"
+    ],
+    "pro_prompt_system": "Act as a UI/UX expert. Analyze the provided webpage URL. Extract its core layout structure (grid, flex), primary and secondary color palette, font families for headlines/body, key interactive elements (buttons, forms), and user flow patterns. Generate a detailed, structured JSON brief for an LLM to rebuild this page, ensuring all these elements are specified with precision. Focus on interaction states and responsive breakpoints.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611241153-2",
+    "date": "2026-11-24",
+    "title": "Monogram Mark: Bold Brand Core",
+    "category": "Typography & Brand",
+    "trend_signal": "With digital noise increasing, singular, bold letterform logos cut through, embodying brand essence instantly. This system emphasizes finding a brand's true color from active UI elements, ensuring visual consistency and impact across all touchpoints, from core mark to interactive components.",
+    "typography_pairing": "Gilroy ExtraBold + Inter",
+    "color_palette": [
+      "#1A1A1A",
+      "#FFFFFF",
+      "#FF0077",
+      "#00FFC0"
+    ],
+    "pro_prompt_system": "Design a minimalist, single-letter monogram logo for a tech-forward brand. The letter should be impactful, using a sans-serif, extra-bold weight. Incorporate the primary brand color prominently within the letterform or as a subtle accent. Provide 3 variations, each with a rationale. Ensure the design is scalable and works effectively in small avatar contexts. Define the precise hex code for the brand's clickable accent color.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611241153-3",
+    "date": "2026-11-24",
+    "title": "Dynamic Interaction Micro-Motion Spec",
+    "category": "Motion & 3D",
+    "trend_signal": "Engaging micro-interactions are crucial for modern UX, providing immediate feedback and delight. This system creates precise motion specifications for AI, detailing easing, duration, and triggers, ensuring animations enhance usability without feeling generic. It moves beyond static design to dynamic, performant experiences.",
+    "typography_pairing": "Clash Display + SF Mono",
+    "color_palette": [
+      "#000000",
+      "#F8F8F8",
+      "#4CAF50",
+      "#FFC107"
+    ],
+    "pro_prompt_system": "Develop a detailed motion specification for a hover-triggered button interaction. Define precise easing curves (e.g., `cubic-bezier(0.4, 0, 0.2, 1)`), duration (e.g., `200ms`), and delay (e.g., `50ms`) for a subtle background color change and a text scale/bounce. Include CSS/JS pseudo-code outlining the transition properties and event listeners. Specify the exact color hex codes for the normal and hover states. Aim for smooth, responsive feedback.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611231007-1",
     "date": "2026-11-23",
     "title": "High-Convert App Landing Structure",
