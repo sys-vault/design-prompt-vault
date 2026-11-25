@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611251045-1",
+    "date": "2026-11-25",
+    "title": "Monogram Power Brand System",
+    "category": "Typography & Brand",
+    "trend_signal": "Single, bold letterforms dominate high-impact branding due to their immediate recognition and versatility. This approach leverages functional accent colors—often found in clickable elements—to guide user focus and build instant recognition without visual clutter, enhancing brand recall.",
+    "typography_pairing": "Display: Righteous + Body/Mono: Inter",
+    "color_palette": [
+      "#2C3E50",
+      "#ECF0F1",
+      "#E74C3C",
+      "#2ECC71"
+    ],
+    "pro_prompt_system": "Design a minimalist, bold single-letter logomark for 'Future Brands Inc.' using the letter 'F'. Ensure the mark is highly scalable and impactful. For web, identify the primary functional accent color from interactive elements (buttons, links) on an existing brand page (e.g., #E74C3C) and integrate it subtly within the logomark's digital application. Provide 3 variations.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611251045-2",
+    "date": "2026-11-25",
+    "title": "AI Site Rebuild Brief Blueprint",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "AI's ability to parse and reconstruct web layouts from structured briefs is critical for rapid prototyping and iteration. Supplying specific parameters like layout, color, and interaction ensures AI accuracy, reducing guesswork and accelerating design-to-code pipelines significantly, making AI a reliable design partner.",
+    "typography_pairing": "Display: Outfit + Body/Mono: JetBrains Mono",
+    "color_palette": [
+      "#1A202C",
+      "#CBD5E0",
+      "#63B3ED",
+      "#E53E3E"
+    ],
+    "pro_prompt_system": "Act as a UI/UX analyst. Analyze the webpage at [URL HERE]. Generate a comprehensive AI rebuild brief. Detail existing layout (grid, sections), color palette (primary, secondary, accent with HEX codes), typography (display, body, sizes), key interactions (hover, click states), and user flows. Structure this brief for an LLM to accurately rebuild the page's core functionality and aesthetic. Emphasize component breakdown.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611251045-3",
+    "date": "2026-11-25",
+    "title": "Serendipitous Interactive UI",
+    "category": "UI & Layout",
+    "trend_signal": "Users crave authentic, discovery-based interactions over purely algorithmic feeds, fostering deeper engagement. Designing UI elements that reveal 'rare' or specific information upon subtle, curiosity-driven interaction, guided by precise feedback, builds a sense of personalized discovery and reward.",
+    "typography_pairing": "Display: Public Sans + Body/Mono: Roboto Mono",
+    "color_palette": [
+      "#F7F7F7",
+      "#4A90E2",
+      "#50E3C2",
+      "#9B59B6"
+    ],
+    "pro_prompt_system": "Design an interactive 'discovery' card component for a content feed. Initially display a blurred image and a generic title. On hover/tap, smoothly reveal a 'rare answer' fact or detail (max 20 words) and an illustrative icon, replacing the blur. Ensure the interaction provides clear visual feedback and a brief, satisfying micro-animation on reveal, encouraging exploration. Use a subtle gradient overlay for the blur effect.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611241153-1",
     "date": "2026-11-24",
     "title": "AI Layout Deconstruct & Rebuild Brief",
