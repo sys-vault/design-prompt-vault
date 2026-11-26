@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611261018-1",
+    "date": "2026-11-26",
+    "title": "Adaptive Prompt Architecture",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "This pattern leverages original prompt construction by focusing on core intent and adaptable parameters, avoiding the diminishing returns of generic viral prompts. It ensures outputs remain fresh and relevant, boosting engagement and specific design goals.",
+    "typography_pairing": "Inter Display + Source Sans Pro",
+    "color_palette": [
+      "#2C3E50",
+      "#ECF0F1",
+      "#3498DB",
+      "#E74C3C"
+    ],
+    "pro_prompt_system": "Generate a series of minimalist UI icons for a 'Smart Home Dashboard', emphasizing clean lines, subtle gradients, and functional clarity. The style should be 'flat design 2.0' with a cohesive color palette that shifts slightly to indicate status. Ensure icons for 'Lighting', 'Thermostat', 'Security', and 'Media' are distinct yet harmonious, suitable for web and mobile interfaces.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611261018-2",
+    "date": "2026-11-26",
+    "title": "Immersive Digital Architecture",
+    "category": "Motion & 3D",
+    "trend_signal": "Addresses the growing demand for interactive 3D environments that offer a profound sense of place, rather than static documentation. This approach elevates user engagement by transforming traditional content into explorative, memorable digital experiences, increasing dwell time and brand recall.",
+    "typography_pairing": "Montserrat Bold + Open Sans Light",
+    "color_palette": [
+      "#1C2A39",
+      "#8D9AA6",
+      "#D4C7B5",
+      "#4F6367"
+    ],
+    "pro_prompt_system": "Design a 3D animated sequence exploring a 'Neo-Brutalist Digital Temple'. Focus on stark concrete textures, dramatic volumetric lighting, and a subtle hum of ambient energy. The camera should smoothly track through a series of monolithic structures, revealing intricate holographic data displays embedded within the brutalist forms. Emphasize scale and atmospheric depth, concluding on a central, glowing data altar.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611261018-3",
+    "date": "2026-11-26",
+    "title": "Streamlined Form UX & Type",
+    "category": "UI & Layout",
+    "trend_signal": "Acknowledges user fatigue with redundant form inputs and the need for streamlined data collection. By intelligently merging related fields and guiding typography, this strategy minimizes cognitive load, improves completion rates, and enhances the overall user experience, directly impacting conversion.",
+    "typography_pairing": "Lato Hairline + Roboto Regular",
+    "color_palette": [
+      "#F4F6F8",
+      "#2C3E50",
+      "#7F8C8D",
+      "#2ECC71"
+    ],
+    "pro_prompt_system": "Create a responsive web form design for 'Project Submission', merging 'Project Name' and 'Short Description' into a single smart input with dynamic character count. Utilize a clean, minimal aesthetic with Lato Hairline for labels and Roboto Regular for input text. Implement clear error states with subtle red accents and a success state with a soft green. Ensure seamless mobile responsiveness and accessibility standards.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611251045-1",
     "date": "2026-11-25",
     "title": "Monogram Power Brand System",
