@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611271024-1",
+    "date": "2026-11-27",
+    "title": "Smart SaaS Pricing Module",
+    "category": "UI & Layout",
+    "trend_signal": "Generic AI-generated UI elements often fail to drive conversion on critical pages like SaaS pricing. This pattern focuses on clear value proposition and strategic visual hierarchy to guide user choice and optimize revenue.",
+    "typography_pairing": "Montserrat + Inter",
+    "color_palette": [
+      "#1A50FF",
+      "#F0F3F7",
+      "#2C3E50",
+      "#FFC700"
+    ],
+    "pro_prompt_system": "Design a responsive SaaS pricing module for a B2B platform. Include three distinct plans: Basic, Pro, Enterprise. Emphasize key features, bold pricing, and a clear call-to-action for each. Avoid generic icons; use subtle gradients and clean typography. Ensure mobile view handles text wrapping gracefully without overflow.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611271024-2",
+    "date": "2026-11-27",
+    "title": "Caustic Refraction & Mist Prompt",
+    "category": "Motion & 3D",
+    "trend_signal": "Mastering advanced material rendering in AI, like refractive caustics and atomized mist, is crucial for photorealistic product visualization in video. This workflow specifically addresses preventing glass warping and achieving accurate light interactions, vital for high-end brand assets.",
+    "typography_pairing": "Neue Haas Grotesk + Source Code Pro",
+    "color_palette": [
+      "#E8F0F7",
+      "#5B8BFF",
+      "#1C2A3A",
+      "#A0C0E0"
+    ],
+    "pro_prompt_system": "Generate a 10-second AI video loop of a chilled fragrance flacon on a pristine surface. Focus on hyper-realistic optical caustics from the glass bottle refracting light onto the surface. Include subtle, rim-lit atomized micro-mist around the bottle base. Ensure rigid, unwelded glass edges and accurate liquid meniscus. Camera slowly rotates 360 degrees, 4K, 60fps.",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611271024-3",
+    "date": "2026-11-27",
+    "title": "Adaptive UI Component Agent",
+    "category": "AI Prompt Workflow",
+    "trend_signal": "The challenge of giving AI coding agents 'design taste' and preventing common issues like component overflow on mobile is paramount. This prompt system teaches AI to generate sophisticated, responsive UI components that adapt elegantly across breakpoints, moving beyond generic, flawed outputs.",
+    "typography_pairing": "Satoshi + DM Sans",
+    "color_palette": [
+      "#2A303C",
+      "#E0E6EF",
+      "#6C7A89",
+      "#8D9ECF"
+    ],
+    "pro_prompt_system": "Architect an AI agent workflow for generating responsive feature cards. Each card must include a concise title, 2-3 bullet points of benefits, and a subtle, relevant icon. Prioritize clean text-wrap behavior on mobile devices, ensuring no overflow. The agent should learn to avoid 'emoji feature card' aesthetics and instead favor a minimalist, professional design language with consistent padding and spacing.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611261018-1",
     "date": "2026-11-26",
     "title": "Adaptive Prompt Architecture",
