@@ -1,5 +1,53 @@
 [
   {
+    "id": "vault-202611280940-1",
+    "date": "2026-11-28",
+    "title": "Smart Feature Grid Layout",
+    "category": "UI & Layout",
+    "trend_signal": "AI agents often default to visually weak 'emoji feature cards' that fail to convey value. This pattern replaces those with a conversion-focused, scannable grid that highlights benefits and avoids generic iconography, driving clearer understanding and engagement.",
+    "typography_pairing": "Inter Bold + IBM Plex Sans Text",
+    "color_palette": [
+      "#2E3A4B",
+      "#F0F4F8",
+      "#4CAF50",
+      "#8C9BA8"
+    ],
+    "pro_prompt_system": "For an AI coding agent: Generate a responsive 3-column feature grid. Each card should contain a concise headline (3-5 words), a benefit-oriented body paragraph (20-30 words), and a subtle, relevant icon or abstract shape, not an emoji. Ensure mobile stacking.",
+    "is_pro_vault": false
+  },
+  {
+    "id": "vault-202611280940-2",
+    "date": "2026-11-28",
+    "title": "Hyper-Realistic Glass & Mist VFX",
+    "category": "Motion & 3D",
+    "trend_signal": "Achieving photorealistic transparent materials and subtle atmospheric effects (like mist) in AI video requires precise prompt engineering to prevent distortion. This system isolates specific optical phenomena and material properties for cinematic quality renders, crucial for high-end product visualization.",
+    "typography_pairing": "Playfair Display + Roboto",
+    "color_palette": [
+      "#0A1128",
+      "#D9E2EC",
+      "#A8DADC",
+      "#FFD700"
+    ],
+    "pro_prompt_system": "Generate a 6-second AI video loop. Focus on a clear glass bottle with a liquid interior, exhibiting subtle refractive caustics on the surface below. Atomized micro-mist should gently coalesce around the bottle's rim and base, caught in rim-lighting. Maintain rigid, non-warped glass edges. [Camera: slight dolly, slow rotation].",
+    "is_pro_vault": true
+  },
+  {
+    "id": "vault-202611280940-3",
+    "date": "2026-11-28",
+    "title": "High-Converting Pricing Page Blueprint",
+    "category": "UI & Layout",
+    "trend_signal": "Pricing pages are critical conversion points, yet often suffer from poor hierarchy or generic layouts. This system prioritizes clear value proposition, optimal plan differentiation, and persuasive calls-to-action, specifically designed to guide users to pick a plan and maximize revenue.",
+    "typography_pairing": "Poppins SemiBold + Open Sans",
+    "color_palette": [
+      "#1A2B47",
+      "#F5F8FA",
+      "#007BFF",
+      "#6C757D"
+    ],
+    "pro_prompt_system": "Design a responsive SaaS pricing page for a 3-tier subscription model (Basic, Pro, Enterprise). Clearly highlight the 'Pro' tier as recommended. Each tier must list 5 key features, price, and a distinct CTA button. Include a clear value proposition statement above the tiers and an FAQ section below. Prioritize mobile readability.",
+    "is_pro_vault": true
+  },
+  {
     "id": "vault-202611271024-1",
     "date": "2026-11-27",
     "title": "Smart SaaS Pricing Module",
